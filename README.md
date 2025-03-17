@@ -15,9 +15,9 @@ Repositório destinado ao meu portfólio
 
 Minha primeira interação com a area de programação foi na Etec Prof° Carmine Biagio Tundisi em 2020, quando desenvolvi as primeiras linha de comando nas aulas. Com certeza no inicio foi dificil, porém com o tempo e com determinação fui conseguindo solucionar problemas atraves dos códigos, ali nas aulas de Tecnica de Programação e Algoritmos pude ter o primeiro contato com a linguagem C#. Com o desenvolvimento do curso, fui me aprofundando com as aulas de Tecnica de programação e algortimos, desing digital, Analise e projetos de sistemas, Fundamentos da informatica, programação Web 1,2 e 3, Banco de dados 1 e 2, desenvolvimento de sistemas, programação de aplicativos mobile 1 e 2, sistemas embarcados, qualidade e teste de software, internet/protocolos e segurança de sistemas de informação e com isso me aprofundei em diversos projeto em HTML, CSS, banco de dados, C#, JavaScript, MySql, Arduino entre outras tecnologias, como ultimo projeto de TCC na Etec, eu juntamente com o meu grupo desenvolvemos um projeto com arduino, criamos um sistemas de irrigaçao automatizada, este projeto foi extremamente desafiador e acredito que ali concretizei uma paixão maior por programação. Na conclusão do ensino médio, me inscrevi para a Fatec Jornalista Omair Fagundes em Bragança Paulista, na onde conclui o 1° semestre e me transferi para a Fatec Prof° Jessen Vidal em São José dos Campos, onde estou atualmente no 5° semestre.
 
-No campo do desenvolvimento de software, estou focando em aprimorar minhas habilidades no back-end e me aprofundar em bancos de dados relacionais. Além do aprendizado técnico, essa trajetória tem me permitido desenvolver habilidades interpessoais importantes, como comunicação, trabalho em equipe e resolução de problemas, que são essenciais para uma carreira de sucesso na área de tecnologia.
+No campo do desenvolvimento de software, estou focando em aprimorar minhas habilidades no back-end e front-end e me aprofundar em bancos de dados relacionais. Além das Soft-Skills, essa trajetória tem me permitido desenvolver habilidades interpessoais importantes, como comunicação, trabalho em equipe e resolução de problemas, que são essenciais para uma carreira de sucesso na área de tecnologia.
 
-Estou comprometido com um processo contínuo de crescimento e sempre em busca de novos desafios que me permitam evoluir profissionalmente.
+Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmente e pessoalmente e, assim conseguindo me tornar um profissional de excelencia 
 
    </p>
 </div>
@@ -33,14 +33,18 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
  |   Curso  |    Plataforma de Ensino    |
  | :------:      | :------: |
- | Introdução ao MongoDB - Cursando | MongoDB |
+ | Introdução ao MongoDB | MongoDB |
  | Google Cloud Foundations | GoogleCloud |
+ | Escola de Inovadores | Inova CPS|
+ |Caminho do desenvolvedor MongoDB Python| MongoDB|
+ |Perguntas práticas do desenvolvedor associado Python| MongoDB|
 
 <br>
+<span id='contatos'>
 
 <h2 align='center'>📞 Contatos 📞</h2>
 
-<a href = "https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "https://github.com/ErikZFerraz/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <br>
