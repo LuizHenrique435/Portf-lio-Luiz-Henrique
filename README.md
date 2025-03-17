@@ -17,7 +17,7 @@ Minha primeira interação com a area de programação foi na Etec Prof° Carmin
 
 No campo do desenvolvimento de software, estou focando em aprimorar minhas habilidades no back-end e front-end e me aprofundar em bancos de dados relacionais. Além das Soft-Skills, essa trajetória tem me permitido desenvolver habilidades interpessoais importantes, como comunicação, trabalho em equipe e resolução de problemas, que são essenciais para uma carreira de sucesso na área de tecnologia.
 
-Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmente e pessoalmente e, assim conseguindo me tornar um profissional de excelencia 
+Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmente e pessoalmente e, assim conseguindo me tornar um profissional de excelência 
 
    </p>
 </div>
@@ -51,8 +51,6 @@ Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmen
 
 <h2 align='center'>💻 Meus Principais Conhecimentos 💻</h2>
 
-## Principais conhecimentos
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -71,11 +69,24 @@ Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmen
 <br>
 
 ## Projetos
+</div>
+
+### Em 2023-1 - ERP - Canecatec(1° Semestre)
+
+### 📋 Desafio (Problema)
+
+Este é um projeto acadêmico que foi desenvolvido um ERP para vendas de canecas, o nome atribuido ao sistema foi "Canecatec" no qual os grupos foram dividos em setores da empresa
+
+### Em 2023-2 - Assistente Virtual para Respostas(2° Semestre)
+
+### 📋 Desafio (Problema)
+
 
 </div>
 
-### Em 2023-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
+### Em 2024-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
 
+### 📋 Desafio (Problema)
 
 Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das vendas de forma ampla e detalhada, que possui como objetivo criar uma aplicação que tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
 
