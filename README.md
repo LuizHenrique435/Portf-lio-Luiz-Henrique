@@ -1,5 +1,4 @@
 # Portfolio-Luiz-Henrique-Souza-Silva
-Repositório destinado ao meu portfólio 
 
 <p align="center">
   <a href ="#introducao"> Introdução </a>  •
@@ -9,7 +8,7 @@ Repositório destinado ao meu portfólio
 <span id='introducao'>
 
 <h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
-   <img src="images/ErikZFerraz.png" width="200" height="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+   <img src="images/perfil.jpeg"  height="400" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
   <p style="text-align: justify;">
     Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Meu interesse pela tecnologia foi na Etec-Atibaia quando iniciei o curso de Desenvolvimento de Sistemas em 2020.
 
@@ -81,6 +80,106 @@ Este é um projeto acadêmico que foi desenvolvido um ERP para vendas de canecas
 
 ### 📋 Desafio (Problema)
 
+Neste desafio proposto pela Fatec, o cliente foi o professor **Giuliano Bertoti**. O problema estava relacionado à dificuldade na automação da resposta a perguntas frequentes em um contexto específico, baseado em documentos. A necessidade surgiu de criar um sistema capaz de responder automaticamente às perguntas, utilizando um documento acessado pelo assistente virtual. A solução deveria envolver o uso de tecnologias robustas para garantir que o sistema fosse eficiente, escalável e fácil de utilizar.
+
+Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** para processar as perguntas e buscar as respostas dentro de um documento estruturado. A aplicação foi projetada para ser fácil de usar, com um design simples e claro, permitindo que o usuário obtenha respostas rápidas. O sistema também deveria ser modular, permitindo a adição de novos documentos e atualizações no futuro.
+
+> Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/Code-Wave-2-API" target="_blank">aqui!</a>
+
+![Protótipo do Projeto](https://raw.githubusercontent.com/ErikZFerraz/Code-Wave-2-API/main/Front-end/src/to_readme/PROTOTIPO.png)
+
+<h1></h1>
+
+### ⚒️ Tecnologias Utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"><b>Java</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento dos sistemas.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"><b>MySQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para gerenciamento e armazenamento de dados.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="NetBeans" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"><b>NetBeans IDE</b> - </img>
+  </span>
+  <span>
+    Utilizada como interface de desenvolvimento para o projeto.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"><b>Eclipse</b> - </img>
+  </span>
+  <span>
+    Utilizado como ambiente de desenvolvimento para o projeto.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Local Hosting" height="40" width="40" src="https://static.thenounproject.com/png/808277-512.png"><b>Hospedagem Local</b> - </img>
+  </span>
+  <span>
+    Utilizado para o desenvolvimento e execução local da aplicação.
+  </span>
+</div>
+
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
+
+Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse** e também na criação de testes unitários para garantir a qualidade do código. Também utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
+
+<br>
+
+<b>Hard Skills</b>
+<ul>
+  <li><b>Programação em Java</b> - Realizo com autonomia, com foco em desenvolvimento de sistemas orientados a objetos.</li>
+  <li><b>Desenvolvimento com JavaFX</b> - Realizo com autonomia, criando interfaces gráficas para melhorar a experiência do usuário.</li>
+  <li><b>Integração com documentos e processamento de informações</b> - Realizo com autonomia, garantindo que o assistente responda de maneira eficiente.</li>
+  <li><b>Gerenciamento de banco de dados com MySQL</b> - Realizo com auxílio, utilizando para armazenar dados e interações.</li>
+  <li><b>Desenvolvimento com NetBeans IDE</b> - Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto.</li>
+  <li><b>Hospedagem de sistemas localmente</b> - Realizo com auxílio, garantindo que a aplicação seja acessível em ambiente local para testes e desenvolvimento.</li>
+</ul>
+
+<br>
+
+<b>Soft Skills</b>
+<ul>
+  <li>
+    <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.
+  </li>
+  
+  <li>
+    <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos.
+  </li>
+  
+  <li>
+    <b>Comunicação</b> - Mantive uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele.
+  </li>
+</ul>
+
+<br/>
 
 </div>
 
