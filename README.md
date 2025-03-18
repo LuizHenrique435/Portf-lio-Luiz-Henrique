@@ -44,7 +44,7 @@ Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmen
 <h2 align='center'>📞 Contatos 📞</h2>
 
 <a href = "www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "https://github.com/ErikZFerraz/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "https://github.com/LuizHenrique435"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <br>
 
@@ -58,12 +58,19 @@ Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmen
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
 
@@ -279,4 +286,104 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 <br>
 <hr>
 <br>
+
+# Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
+
+## 📋 Desafio (Problema)
+
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores.
+
+A solução proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento.
+
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/DriftOps/API-IV)
+
+![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Projeto.gif)
+
+---
+
+## ⚒️ Tecnologias Utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><b>TypeScript</b> - </img>
+  </span>
+  <span>
+    Utilizada para garantir um código mais seguro e robusto, garantindo melhor manutenção no longo prazo.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><b>React</b> - </img>
+  </span>
+  <span>
+    Utilizado para o desenvolvimento da interface do usuário, proporcionando uma navegação interativa e fluida.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Amazon Web Services" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><b>Amazon Web Services</b> - </img>
+  </span>
+  <span>
+    Utilizada para o armazenamento e hospedagem da aplicação, garantindo escalabilidade e segurança.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizado para o design e prototipação das interfaces, garantindo uma melhor experiência do usuário.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><b>GitHub</b> - </img>
+  </span>
+  <span>
+    Utilizado para o controle de versão e colaboração no desenvolvimento do projeto.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"><b>Trello</b> - </img>
+  </span>
+  <span>
+    Utilizado para o gerenciamento das tarefas e acompanhamento do progresso do projeto.
+  </span>
+</div>
+
+---
+
+## 💡 Contribuições Pessoais
+
+Neste projeto, fui responsável pela implementação da interface do usuário utilizando **React** e **TypeScript**, criando uma plataforma dinâmica e responsiva. Além disso, contribui na criação do design do sistema com **Figma**, focando na organização e usabilidade das telas.
+
+Eu também participei da definição das funcionalidades do sistema, que inclui o gerenciamento de ordens de serviço, controle de clientes e veículos, além de permitir o agendamento e a visualização de reuniões. Trabalhei em estreita colaboração com os outros membros da equipe para garantir que a experiência do usuário fosse intuitiva e eficiente, alinhando as expectativas do cliente com as funcionalidades desenvolvidas.
+
+---
+
+## 🛠️ Hard Skills
+
+- **Desenvolvimento Frontend com React e TypeScript** - Realizo com autonomia.
+- **Design de Interfaces com Figma** - Realizo com autonomia.
+- **Controle de versão com GitHub** - Realizo com autonomia.
+- **Gerenciamento de projetos com Trello** - Realizo com autonomia.
+
+---
+
+## 🧠 Soft Skills
+
+- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
+- **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
+- **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
