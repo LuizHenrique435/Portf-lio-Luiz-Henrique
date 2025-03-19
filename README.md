@@ -90,7 +90,7 @@ Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmi
 
 A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office
 
-> Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/Code-Wave-2-API" target="_blank">aqui!</a>
+> Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/ERP-Canecatec" target="_blank">aqui!</a>
 
 
 <span id='2'>
@@ -103,7 +103,7 @@ Neste desafio proposto pela Fatec, o cliente foi o professor **Giuliano Bertoti*
 
 Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** para processar as perguntas e buscar as respostas dentro de um documento estruturado. A aplicação foi projetada para ser fácil de usar, com um design simples e claro, permitindo que o usuário obtenha respostas rápidas. O sistema também deveria ser modular, permitindo a adição de novos documentos e atualizações no futuro.
 
-> Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/Code-Wave-2-API" target="_blank">aqui!</a>
+> Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/Code-Wave-2-API" target="_blank">aqui!</a>
 
 ![Protótipo do Projeto](https://raw.githubusercontent.com/ErikZFerraz/Code-Wave-2-API/main/Front-end/src/to_readme/PROTOTIPO.png)
 
