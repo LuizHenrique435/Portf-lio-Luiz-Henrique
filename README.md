@@ -92,6 +92,88 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/ERP-Canecatec" target="_blank">aqui!</a>
 
+### ⚒️ Tecnologias Utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="MySQL" height="50" width="50" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.11.2/1732645302637/Microsoft.VisualStudio.Services.Icons.Default"><b>VBA</b> - </img>
+  </span>
+  <span>
+    Utilizada para gerenciamento e armazenamento de dados.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="NetBeans" height="40" width="35" src=""><b>Excel</b> - </img>
+  </span>
+  <span>
+    Utilizada como interface de desenvolvimento para o projeto.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"><b>Eclipse</b> - </img>
+  </span>
+  <span>
+    Utilizado como ambiente de desenvolvimento para o projeto.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Local Hosting" height="40" width="40" src="https://static.thenounproject.com/png/808277-512.png"><b>Hospedagem Local</b> - </img>
+  </span>
+  <span>
+    Utilizado para o desenvolvimento e execução local da aplicação.
+  </span>
+</div>
+
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
+
+Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse** e também na criação de testes unitários para garantir a qualidade do código. Também utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
+
+<br>
+
+<b>Hard Skills</b>
+<ul>
+  <li><b>Programação em Java</b> - Realizo com autonomia, com foco em desenvolvimento de sistemas orientados a objetos.</li>
+  <li><b>Desenvolvimento com JavaFX</b> - Realizo com autonomia, criando interfaces gráficas para melhorar a experiência do usuário.</li>
+  <li><b>Integração com documentos e processamento de informações</b> - Realizo com autonomia, garantindo que o assistente responda de maneira eficiente.</li>
+  <li><b>Gerenciamento de banco de dados com MySQL</b> - Realizo com auxílio, utilizando para armazenar dados e interações.</li>
+  <li><b>Desenvolvimento com NetBeans IDE</b> - Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto.</li>
+  <li><b>Hospedagem de sistemas localmente</b> - Realizo com auxílio, garantindo que a aplicação seja acessível em ambiente local para testes e desenvolvimento.</li>
+</ul>
+
+<br>
+
+<b>Soft Skills</b>
+<ul>
+  <li>
+    <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.
+  </li>
+  
+  <li>
+    <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos.
+  </li>
+  
+  <li>
+    <b>Comunicação</b> - Mantive uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele.
+  </li>
+</ul>
+
+<br/>
+
+</div>
 
 <span id='2'>
 
@@ -107,7 +189,7 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 ![Protótipo do Projeto](https://raw.githubusercontent.com/ErikZFerraz/Code-Wave-2-API/main/Front-end/src/to_readme/PROTOTIPO.png)
 
-<h1></h1>
+
 
 ### ⚒️ Tecnologias Utilizadas
 
