@@ -3,6 +3,10 @@
 <p align="center">
   <a href ="#introducao"> Introdução </a>  •
   <a href ="#contatos"> Contatos </a>  • 
+  <a href ="#1"> Canecatec </a>  • 
+  <a href ="#2"> Assistente Virtual </a>  • 
+  <a href ="#3"> Sistema Web Gerenciamento de Vendas </a>  • 
+  <a href ="#4"> Sistema de Integração Logística para a JJM Log </a>  • 
 </p>
 
 <span id='introducao'>
@@ -77,11 +81,15 @@ Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmen
 ## Projetos
 </div>
 
+<span id='1'>
+
 ### Em 2023-1 - ERP - Canecatec(1° Semestre)
 
 ### 📋 Desafio (Problema)
 
 Este é um projeto acadêmico que foi desenvolvido um ERP para vendas de canecas, o nome atribuido ao sistema foi "Canecatec" no qual os grupos foram dividos em setores da empresa
+
+<span id='2'>
 
 ### Em 2023-2 - Assistente Virtual para Respostas(2° Semestre)
 
@@ -190,6 +198,8 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 </div>
 
+<span id='3'>
+
 ### Em 2024-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
 
 ### 📋 Desafio (Problema)
@@ -287,6 +297,8 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 <hr>
 <br>
 
+<span id='4'>
+  
 # Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
 
 ## 📋 Desafio (Problema)
