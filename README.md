@@ -18,9 +18,8 @@
 
 Minha primeira interação com a area de programação foi na Etec Prof° Carmine Biagio Tundisi em 2020, quando desenvolvi as primeiras linha de comando nas aulas. Com certeza no inicio foi dificil, porém com o tempo e com determinação fui conseguindo solucionar problemas atraves dos códigos, ali nas aulas de Tecnica de Programação e Algoritmos pude ter o primeiro contato com a linguagem C#. Com o desenvolvimento do curso, fui me aprofundando com as aulas de Tecnica de programação e algortimos, desing digital, Analise e projetos de sistemas, Fundamentos da informatica, programação Web 1,2 e 3, Banco de dados 1 e 2, desenvolvimento de sistemas, programação de aplicativos mobile 1 e 2, sistemas embarcados, qualidade e teste de software, internet/protocolos e segurança de sistemas de informação e com isso me aprofundei em diversos projeto em HTML, CSS, banco de dados, C#, JavaScript, MySql, Arduino entre outras tecnologias, como ultimo projeto de TCC na Etec, eu juntamente com o meu grupo desenvolvemos um projeto com arduino, criamos um sistemas de irrigaçao automatizada, este projeto foi extremamente desafiador e acredito que ali concretizei uma paixão maior por programação. Na conclusão do ensino médio, me inscrevi para a Fatec Jornalista Omair Fagundes em Bragança Paulista, na onde conclui o 1° semestre e me transferi para a Fatec Prof° Jessen Vidal em São José dos Campos, onde estou atualmente no 5° semestre.
 
-No campo do desenvolvimento de software, estou focando em aprimorar minhas habilidades no back-end e front-end e me aprofundar em bancos de dados relacionais. Além das Soft-Skills, essa trajetória tem me permitido desenvolver habilidades interpessoais importantes, como comunicação, trabalho em equipe e resolução de problemas, que são essenciais para uma carreira de sucesso na área de tecnologia.
-
-Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmente e pessoalmente e, assim conseguindo me tornar um profissional de excelência 
+Atualmente na area do desenvolvimento de software, estou interessado em ingressar no mercado de trabalho e adquirir e melhorar meus atuais conhecimentos, estou focado em aprimorar minhas habilidades no back-end e no front-end, sendo assim identificando pontos "fracos" e estudando cada vez mais. Além das Soft-Skills, essa trajetória tem me permitido desenvolver habilidades interpessoais importantes, como comunicação, trabalho em equipe e resolução de problemas, que são essenciais para uma carreira de sucesso na área de tecnologia.
+Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmente e pessoalmente e, assim conseguindo me tornar um profissional de excelência.
 
    </p>
 </div>
@@ -87,7 +86,12 @@ Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmen
 
 ### 📋 Desafio (Problema)
 
-Este é um projeto acadêmico que foi desenvolvido um ERP para vendas de canecas, o nome atribuido ao sistema foi "Canecatec" no qual os grupos foram dividos em setores da empresa
+Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de materias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. A solução surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa, e cada time deveria criar sua parte do projeto.
+
+A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office
+
+> Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/Code-Wave-2-API" target="_blank">aqui!</a>
+
 
 <span id='2'>
 
