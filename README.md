@@ -1,5 +1,5 @@
 # Portfolio-Luiz-Henrique-Souza-Silva
-
+<span id="topo"></span> 
 <p align="center">
   <a href ="#introducao"> Introdução </a>  •
   <a href ="#contatos"> Contatos </a>  • 
@@ -161,6 +161,8 @@ Alem das pesquisas, fiquei responsável por testar o sistemas já com as macros 
   
 </ul>
 
+→ [Voltar ao topo](#topo)
+
 <br/>
 
 </div>
@@ -272,6 +274,8 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 <br/>
 
+→ [Voltar ao topo](#topo)
+
 </div>
 
 <span id='3'>
@@ -372,6 +376,8 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 <br>
 <hr>
 <br>
+
+→ [Voltar ao topo](#topo)
 
 <span id='4'>
   
@@ -475,3 +481,5 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 - **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
+
+→ [Voltar ao topo](#topo)
