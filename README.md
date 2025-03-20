@@ -151,9 +151,9 @@ Alem das pesquisas, fiquei responsável por testar o sistemas já com as macros 
   <li>
     <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.
   </li>
-
+<li>
   <b>Trabalho em equipe com outras equipes</b> - Trabalhando em conjunto com o meu grupo e com os outros grupos da sala, buscando otimizar o tempo e o trabalho de todos, sempre mantendo uma comunicação clara e inteligente para desenvolvimento objetivo do sistema
-  </li>
+ </li> 
   
   <li>
     <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do software, como a otimização na busca de respostas nos documentos.
