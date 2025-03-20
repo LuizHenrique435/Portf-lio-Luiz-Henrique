@@ -86,9 +86,9 @@ Estou me desenvolvendo e criando habitos que me ajudem a crescer profissionalmen
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de materias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. A solução surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa, e cada time deveria criar sua parte do projeto.
+Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de materias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. A solução surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa(Compras, Produção, Finanças, Funcionarios, RH, Vendas, Logistica, Estoque, Banco de dados), e cada time deveria criar sua parte do projeto.
 
-A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office
+A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/ERP-Canecatec" target="_blank">aqui!</a>
 
@@ -96,7 +96,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 <div>
   <span>
-    <img align="center" alt="MySQL" height="50" width="50" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.11.2/1732645302637/Microsoft.VisualStudio.Services.Icons.Default"><b>VBA</b> - </img>
+    <img align="center" alt="MySQL" height="40" width="40" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.11.2/1732645302637/Microsoft.VisualStudio.Services.Icons.Default"><b>VBA</b> - </img>
   </span>
   <span>
     Utilizada para gerenciamento e armazenamento de dados.
@@ -106,7 +106,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 <div>
   <span>
-    <img align="center" alt="NetBeans" height="40" width="35" src=""><b>Excel</b> - </img>
+    <img align="center" alt="NetBeans" height="40" width="35" src="https://www.freeiconspng.com/thumbs/excel-icon/excel-icon-12.png"><b>Excel</b> - </img>
   </span>
   <span>
     Utilizada como interface de desenvolvimento para o projeto.
@@ -114,15 +114,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 </div>
 <br>
 
-<div>
-  <span>
-    <img align="center" alt="Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"><b>Eclipse</b> - </img>
-  </span>
-  <span>
-    Utilizado como ambiente de desenvolvimento para o projeto.
-  </span>
 </div>
-<br>
 
 <div>
   <span>
@@ -138,20 +130,18 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 ### 💡Contribuições Pessoais
 
-Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
+Durante o desenvolvimento, fui responsável por levantar dados sobre a produção de canecas, os materias e os maquinarios necessarios, após as pesquisas fizemos uma reunião para apresentação de quais canecas seriam produzidas, sendo assim decidimos que iriam ser produzidas canecas de porcelana e acrílico, fiquei com a responsabilidade de procurar os materiais que seriam necessários para calcular os custos de produção com materiais, maquinarios, funcionarios e a partir disso dar inicio a produção para abastecimento do banco de dados. <br>
 
-Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse** e também na criação de testes unitários para garantir a qualidade do código. Também utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
+Alem das pesquisas, fiquei responsável por testar o sistemas já com as macros e os códigos em VBA, e dar ideias sobre melhorias de rotas ou criação de novas macros e melhorias das que estavam em funcionamento para melhor legibilidade e manutenção.
 
 <br>
 
 <b>Hard Skills</b>
 <ul>
-  <li><b>Programação em Java</b> - Realizo com autonomia, com foco em desenvolvimento de sistemas orientados a objetos.</li>
-  <li><b>Desenvolvimento com JavaFX</b> - Realizo com autonomia, criando interfaces gráficas para melhorar a experiência do usuário.</li>
-  <li><b>Integração com documentos e processamento de informações</b> - Realizo com autonomia, garantindo que o assistente responda de maneira eficiente.</li>
-  <li><b>Gerenciamento de banco de dados com MySQL</b> - Realizo com auxílio, utilizando para armazenar dados e interações.</li>
-  <li><b>Desenvolvimento com NetBeans IDE</b> - Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto.</li>
-  <li><b>Hospedagem de sistemas localmente</b> - Realizo com auxílio, garantindo que a aplicação seja acessível em ambiente local para testes e desenvolvimento.</li>
+  <li><b>Programação em VBA</b> - Realizo com autonomia, conforme as necessidades do sistema.</li>
+  <li><b>Pesquisas de Campo</b> - Realizo com autonomia, organizando ideias, tendo criatividade para implementar funcionalidades no sistema.</li>
+  <li><b>Macros</b> - Realizo com auxilio, visando acertar 100% a funcionalidade necessária.</li>
+  <li><b>Desenvolvimento com Excel</b> - Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto e usando o máximo dos recursos do software.</li>
 </ul>
 
 <br>
@@ -161,14 +151,14 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
   <li>
     <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.
   </li>
-  
-  <li>
-    <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos.
+
+  <b>Trabalho em equipe com outras equipes</b> - Trabalhando em conjunto com o meu grupo e com os outros grupos da sala, buscando otimizar o tempo e o trabalho de todos, sempre mantendo uma comunicação clara e inteligente para desenvolvimento objetivo do sistema
   </li>
   
   <li>
-    <b>Comunicação</b> - Mantive uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele.
+    <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do software, como a otimização na busca de respostas nos documentos.
   </li>
+  
 </ul>
 
 <br/>
