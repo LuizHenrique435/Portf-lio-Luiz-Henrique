@@ -92,6 +92,8 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/ERP-Canecatec" target="_blank">aqui!</a>
 
+<img src="images/Video-ERP.gif"  height="600" align="left"/>
+
 ### ⚒️ Tecnologias Utilizadas
 
 <div>
