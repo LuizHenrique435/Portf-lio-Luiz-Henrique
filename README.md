@@ -242,7 +242,7 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 ### 💡Contribuições Pessoais
 
-Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
+Durante o desenvolvimento, fui responsável pela implementação da Tela de **Login** e da Tela de **Cadastro** em **Java**, pude contribuir nas telas de **Historico** e tive contribuição  e de  que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
 
 Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse** e também na criação de testes unitários para garantir a qualidade do código. Também utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
 
