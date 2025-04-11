@@ -169,7 +169,7 @@ Alem das pesquisas, fiquei responsável por testar o sistemas já com as macros 
 <br/>
 
 </div>
-
+<!---
 <span id='2'>
 
 ### Em 2023-2 - Assistente Virtual para Respostas(2° Semestre)
@@ -486,3 +486,5 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 
 
 → [Voltar ao topo](#topo)
+
+--->
