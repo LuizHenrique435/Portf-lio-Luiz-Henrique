@@ -12,7 +12,7 @@
 <span id='introducao'>
 
 <h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
-   <img src="images/perfil.jpeg"  height="400" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+   <img src="/images/perfil.jpeg"  height="400" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
   <p style="text-align: justify;">
     Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Meu interesse pela tecnologia foi na Etec-Atibaia quando iniciei o curso de Desenvolvimento de Sistemas em 2020.
     
@@ -91,7 +91,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/ERP-Canecatec" target="_blank">aqui!</a>
 
-<img src="images/Video-ERP.gif"/>
+<img src="/images/Video-ERP.gif"/>
 
 
 ### ⚒️ Tecnologias Utilizadas
