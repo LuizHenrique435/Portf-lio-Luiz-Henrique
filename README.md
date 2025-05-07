@@ -241,9 +241,9 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 ### 💡Contribuições Pessoais
 
-Durante o desenvolvimento, fui responsável pela implementação da Tela de **Login** e da Tela de **Cadastro** em **Java**, pude contribuir nas telas de **Historico** e tive contribuição  e de  que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
+Durante o desenvolvimento, atuando no DevTeam, fui responsável pela implementação da Tela de **Login** e da Tela de **Cadastro** em **Java**, pude contribuir nas telas de **Histórico** e tive contribuição na tela **Principal** que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
 
-Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse** e também na criação de testes unitários para garantir a qualidade do código. Também utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
+Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse** e na criação de testes unitários para garantir a qualidade do código. Também utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
 
 <br>
 
@@ -262,15 +262,15 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 <b>Soft Skills</b>
 <ul>
   <li>
-    <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.
+    <b>Trabalho em equipe</b> - Trabalhei em conjunto com meu grupo, desenvolvendo na idealização do projeto, desde a prototipação até o resultado final, trabalhei nas telas de Login, Histórico e na tela Principal que recebia as perguntas e devolvia as respostas com base no documento fornecido.
   </li>
   
   <li>
-    <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos.
+    <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos, e na parte de design para melhorar a experiencia do usuário.
   </li>
   
   <li>
-    <b>Comunicação</b> - Mantive uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele.
+    <b>Comunicação</b> - Tive o  privilégio de manter uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele e dentro do prazo estipulado.
   </li>
 </ul>
 
