@@ -293,7 +293,7 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
 
 <br>
 
- <img src="images/Victor Henrique.png" width=250 alt="Foto">
+ <img src="images/videoDashbord.gif"/>
 
 <br>
 
