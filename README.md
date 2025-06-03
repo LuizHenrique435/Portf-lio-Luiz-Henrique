@@ -262,7 +262,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 <b>Soft Skills</b>
 <ul>
   <li>
-    <b>Trabalho em equipe</b> - Trabalhei em conjunto com meu grupo, desenvolvendo na idealização do projeto, desde a prototipação até o resultado final, trabalhei nas telas de Login, Histórico e na tela Principal que recebia as perguntas e devolvia as respostas com base no documento fornecido.
+    <b>Trabalho em equipe</b> - Trabalhei em conjunto com meu grupo, desenvolvendo a idealização do projeto, desde a prototipação até o resultado final, trabalhei nas telas de Login, Histórico e na tela Principal que recebia as perguntas e devolvia as respostas com base no documento fornecido.
   </li>
   
   <li>
@@ -357,7 +357,7 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
 
 ### Contribuições pessoais
 
-Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários utilizando o JavaScript. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React Native, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
+Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da aplicação. Pude trabalhar na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React Native, participei da estilização da aplicação e assegurei sua responsividade. Ao fim da data de entrega encerrei minha participação na feira de soluções apresentando o projeto para diversos universitários e visitantes da Fatec.
 
 <br>
 
@@ -365,16 +365,15 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
 * Elaboração do front-end utilizando React Native - Realizo com autonomia
-* Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
 
 <br>
 
 ### Soft Skills
 
-* <b>Colaboração</b> - Durante o desenvolvimento da responsividade no front-end, trabalhei em estreita colaboração com um colega para resolver um problema crítico na renderização de componentes em diferentes dispositivos. Compartilhamos conhecimentos sobre React Native e testamos juntos várias abordagens até alcançar uma solução funcional, o que resultou em uma interface adaptável e eficiente para os usuários.
-* <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
-* <b>Resiliência</b> -  Ao me deparar com dificuldades na adaptação à linguagem JavaScript, especialmente ao lidar com padrões de microserviços, busquei aprimorar minhas habilidades por meio de tutoriais práticos e revisões de código.
-
+- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
+- **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
+- **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
+- 
 <br>
 <hr>
 <br>
@@ -387,9 +386,9 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ## 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores e apresentação da empresa.
 
-A solução proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento.
+A solução proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento e fazendo um sistema de fácil utilização.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/DriftOps/API-IV)
 
@@ -462,9 +461,9 @@ A solução proposta é a criação de uma plataforma visualmente intuitiva e de
 
 ## 💡 Contribuições Pessoais
 
-Neste projeto, fui responsável pela implementação da interface do usuário utilizando **React** e **TypeScript**, criando uma plataforma dinâmica e responsiva. Além disso, contribui na criação do design do sistema com **Figma**, focando na organização e usabilidade das telas.
+Neste projeto, atuando como DevTeam no início do projeto, no meio do desenvolvimento do projeto, assumi o cargo de PO, mantendo relação direta com o cliente e ajustando as ideias do cliente com as funcionalidades que estavam sendo desenvolvidas, pude desenvolver um bom papel de comunicação efetiva, com o grupo, professores e cliente, como Dev fui responsável pela implementação da interface do usuário utilizando **React** e **TypeScript**, criando uma plataforma dinâmica e responsiva. Além disso, contribui na criação do design do sistema com **Figma**, garantindo um sistema limpo e de fácil utilização.
 
-Eu também participei da definição das funcionalidades do sistema, que inclui o gerenciamento de ordens de serviço, controle de clientes e veículos, além de permitir o agendamento e a visualização de reuniões. Trabalhei em estreita colaboração com os outros membros da equipe para garantir que a experiência do usuário fosse intuitiva e eficiente, alinhando as expectativas do cliente com as funcionalidades desenvolvidas.
+Participei da definição das funcionalidades do sistema, tive contribuição na tela de Login, na criação e modelagem da NavTab, na tela de perfil e na tela de Informativos/Tutoriais. Trabalhei na colaboração com os outros membros da equipe para garantir um sistema que atendesse as expectativas do cliente e que a experiência do usuário fosse intuitiva e eficiente, alinhando o esforço da equipe as expectativas do cliente com as funcionalidades desenvolvidas.
 
 ---
 
@@ -480,8 +479,9 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 ## 🧠 Soft Skills
 
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
-- **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
+- **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidade, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
+- 
 
 
 → [Voltar ao topo](#topo)
