@@ -1,7 +1,9 @@
-# Portfolio-Luiz-Henrique-Souza-Silva
+<div align="center">
+
+# Portfólio-Luiz-Henrique-Souza-Silva
 <span id="topo"></span> 
 <p align="center">
-  <a href ="#introducao"> Introdução </a>  •
+  •<a href ="#introducao"> Introdução </a>  •
   <a href ="#contatos"> Contatos </a>  • 
   <a href ="#1"> Canecatec </a>  • 
   <a href ="#2"> Assistente Virtual </a>  • 
