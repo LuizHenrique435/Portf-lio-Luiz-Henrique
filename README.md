@@ -305,8 +305,6 @@ Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gi
 
 [Clique aqui](https://github.com/Code-Lotus/api-3) para acessar o repositório do projeto.
 
-<br>
-
  <img src="images/videoDashbord.gif"/>
 
 ---
