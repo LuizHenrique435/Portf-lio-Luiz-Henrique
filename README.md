@@ -3,12 +3,13 @@
 # Portfólio-Luiz-Henrique-Souza-Silva
 <span id="topo"></span> 
 <p align="center">
-  •<a href ="#introducao"> Introdução </a>  •
-  <a href ="#contatos"> Contatos </a>  • 
-  <a href ="#1"> Canecatec </a>  • 
-  <a href ="#2"> Assistente Virtual </a>  • 
-  <a href ="#3"> Sistema Web Gerenciamento de Vendas </a>  • 
-  <a href ="#4"> Sistema de Integração Logística para a JJM Log </a>  • 
+  \<a href ="#introducao"> Introdução </a>  \
+  <a href ="#contatos"> Contatos </a>  \ 
+  <a href ="#1"> Canecatec </a>  \ 
+  <a href ="#2"> Assistente Virtual </a>  \ 
+  <a href ="#3"> Sistema Web DashBoard de Gerenciamento de Vendas Pro4Tech </a>  \ 
+  <a href ="#4"> Sistema de Integração Logística para a JJM Log </a>  \
+  <a href ="#5"> Sistema de Gerenciamento de Reembolsos para a GSW </a>
 </p>
 
 <span id='introducao'>
@@ -87,7 +88,7 @@ Atualmente na área do desenvolvimento de software, estou interessado em ingress
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de materias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. O problema era desenvolver um sistema integrado e eficiente, calculando despesas de produção, estoque, vendas e desempenho dos colaboradores. A solução surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa(Compras, Produção, Finanças, Funcionarios, RH, Vendas, Logistica, Estoque, Banco de dados), e cada time deveria criar sua parte do projeto.
+Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de materias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. O problema era desenvolver um sistema integrado e eficiente, calculando despesas de produção, estoque, vendas e desempenho dos colaboradores. A **solução** surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa(Compras, Produção, Finanças, Funcionarios, RH, Vendas, Logistica, Estoque, Banco de dados), e cada time deveria criar sua parte do projeto.
 
 A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office.
 
@@ -179,7 +180,7 @@ Além das pesquisas, fiquei responsável por testar o sistemas já com as macros
 
 Neste desafio proposto pela Fatec, o cliente foi o professor **Giuliano Bertoti**. O problema estava relacionado à dificuldade na automação da resposta a perguntas frequentes em um contexto específico, baseado em documentos. A necessidade surgiu de criar um sistema capaz de responder automaticamente às perguntas, utilizando um documento acessado pelo assistente virtual. A solução deveria envolver o uso de tecnologias robustas para garantir que o sistema fosse eficiente, escalável e fácil de utilizar.
 
-Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** para processar as perguntas e buscar as respostas dentro de um documento estruturado. A aplicação foi projetada para ser fácil de usar, com um design simples e claro, permitindo que o usuário obtenha respostas rápidas. O sistema também deveria ser modular, permitindo a adição de novos documentos e atualizações no futuro.
+Como **solução**, foi desenvolvido um **assistente virtual** que utiliza **Java** para processar as perguntas e buscar as respostas dentro de um documento estruturado. A aplicação foi projetada para ser fácil de usar, com um design simples e claro, permitindo que o usuário obtenha respostas rápidas. O sistema também deveria ser modular, permitindo a adição de novos documentos e atualizações no futuro.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/Code-Wave-2-API" target="_blank">aqui!</a>
 
@@ -288,8 +289,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Giuliano Bertoti, o problema foi identificado junto com a impresa Pro4Tech onde os relatorios eram armazenados em planilias do Excel e para ter acesso as informações era dificil para os colaboradores quanto para os gerentes, então foi solicitado a criação de um Dashboard onde era possivel centralizar as informações e ter uma visualização mais limpa e eficiente. Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das vendas de forma ampla e detalhada, tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo Excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
-
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Giuliano Bertoti, o problema foi identificado junto com a empresa Pro4Tech onde os relatórios eram armazenados em planilhas do Excel e para ter acesso às informações quando o volume de dados era alto tanto era difícil para os colaboradores quanto para os gerentes, como **solução** foi solicitado a criação de um Dashboard onde era possível centralizar as informações e ter uma visualização mais limpa e eficiente. Este é um projeto acadêmico sobre Sistema de Gerenciamento e análise das vendas de forma ampla e detalhada, tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo Excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
 
 [Clique aqui](https://github.com/Code-Lotus/api-3) para acessar o repositório do projeto.
 
@@ -381,7 +381,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da
 
 Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores e apresentação da empresa.
 
-A solução proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento e fazendo um sistema de fácil utilização.
+A **solução** proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento e fazendo um sistema de fácil utilização.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/DriftOps/API-IV)
 
