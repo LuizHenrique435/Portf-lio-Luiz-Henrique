@@ -339,15 +339,6 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
 <br>
 <div>
   <span>
-    <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
-  </span>
-  <span>
-    Utilizada para o gerenciamento e armazenamento dos dados.
-  </span>
-</div>
-<br>
-<div>
-  <span>
     <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
   </span>
   <span>
@@ -359,21 +350,21 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
 
 ### Contribuições pessoais
 
-Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da aplicação. Pude trabalhar na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React Native, participei da estilização da aplicação e assegurei sua responsividade. Ao fim da data de entrega encerrei minha participação na feira de soluções apresentando o projeto para diversos universitários e visitantes da Fatec.
+Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da aplicação. Pude trabalhar na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React, participei da estilização da aplicação e assegurei sua responsividade. Ao fim da data de entrega encerrei minha participação na feira de soluções apresentando o projeto para diversos universitários e visitantes da Fatec.
 
 <br>
 
 ### Hard Skills
 
-* Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do front-end utilizando React Native - Realizo com autonomia
+* Desenvolvimento utlizando a linguagem TypeScript - Realizo com auxílio
+* Elaboração do front-end utilizando React - Realizo com autonomia
 
 <br>
 
 ### Soft Skills
 
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
-- **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
+- **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 - 
 <br>
@@ -481,7 +472,7 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 ## 🧠 Soft Skills
 
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
-- **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidade, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
+- **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 - 
 
