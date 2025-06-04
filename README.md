@@ -288,7 +288,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 ### 📋 Desafio (Problema)
 
-Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das vendas de forma ampla e detalhada, que possui como objetivo criar uma aplicação que tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo Excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Giuliano Bertoti, o problema foi identificado junto com a impresa Pro4Tech onde os relatorios eram armazenados em planilias do Excel e para ter acesso as informações era dificil para os colaboradores quanto para os gerentes, então foi solicitado a criação de um Dashboard onde era possivel centralizar as informações e ter uma visualização mais limpa e eficiente. Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das vendas de forma ampla e detalhada, tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo Excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
 
 
 [Clique aqui](https://github.com/Code-Lotus/api-3) para acessar o repositório do projeto.
@@ -330,7 +330,7 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
 <br>
 <div>
   <span>
-    <img align="center" alt="React Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React Native</b> - </img>
+    <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React</b> - </img>
   </span>
   <span>
     Utilizada para a estruturação do front-end.
