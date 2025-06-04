@@ -292,6 +292,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 → [Voltar ao topo](#topo)
 
 </div>
+<br>
 
 ---
 <span id='3'>
