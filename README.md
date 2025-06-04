@@ -129,9 +129,9 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
     Utilizado para o desenvolvimento e execução local da aplicação.
   </span>
 </div>
+<br>
 
-
-<h1></h1>
+---
 
 ### 💡Contribuições Pessoais
 
@@ -141,7 +141,9 @@ Além das pesquisas, fiquei responsável por testar o sistemas já com as macros
 
 <br>
 
-<b>Hard Skills</b>
+---
+
+## 🛠️ Hard Skills
 <ul>
   <li><b>Programação em VBA</b> - Realizo com autonomia, conforme as necessidades do sistema.</li>
   <li><b>Pesquisas de Campo</b> - Realizo com autonomia, organizando ideias, tendo criatividade para implementar funcionalidades no sistema.</li>
@@ -151,7 +153,9 @@ Além das pesquisas, fiquei responsável por testar o sistemas já com as macros
 
 <br>
 
-<b>Soft Skills</b>
+---
+
+### 🧠 Soft Skills
 <ul>
   <li>
     <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros das outras equipes para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros. Realizava pequenas reuniões com o meu grupo, coletava informações referente ao que estava sendo desenvolvido e conversava com os demais grupos para obter informações do que eles estavam desenvolvendo para que todos estivéssemos alinhados no mesmo proposito  
@@ -171,6 +175,8 @@ Além das pesquisas, fiquei responsável por testar o sistemas já com as macros
 <br/>
 
 </div>
+
+---
 
 <span id='2'>
 
@@ -238,9 +244,9 @@ Como **solução**, foi desenvolvido um **assistente virtual** que utiliza **Jav
     Utilizado para o desenvolvimento e execução local da aplicação.
   </span>
 </div>
+<br>
 
-
-<h1></h1>
+---
 
 ### 💡Contribuições Pessoais
 
@@ -250,7 +256,9 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 <br>
 
-<b>Hard Skills</b>
+---
+
+## 🛠️ Hard Skills
 <ul>
   <li><b>Programação em Java</b> - Realizo com autonomia, com foco em desenvolvimento de sistemas orientados a objetos.</li>
   <li><b>Desenvolvimento com JavaFX</b> - Realizo com autonomia, criando interfaces gráficas para melhorar a experiência do usuário.</li>
@@ -262,7 +270,9 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 <br>
 
-<b>Soft Skills</b>
+---
+
+### 🧠 Soft Skills
 <ul>
   <li>
     <b>Trabalho em equipe</b> - Trabalhei em conjunto com meu grupo, desenvolvendo a idealização do projeto, desde a prototipação até o resultado final, trabalhei nas telas de Login, Histórico e na tela Principal que recebia as perguntas e devolvia as respostas com base no documento fornecido.
@@ -283,6 +293,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 </div>
 
+---
 <span id='3'>
 
 ### Em 2024-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
@@ -297,9 +308,9 @@ Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gi
 
  <img src="images/videoDashbord.gif"/>
 
-<br>
+---
 
-### Tecnologias utilizadas
+### ⚒️ Tecnologias utilizadas
 
 <div>
   <span>
@@ -348,30 +359,36 @@ Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gi
 
 <br>
 
-### Contribuições pessoais
+---
+
+### 💡Contribuições pessoais
 
 Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da aplicação. Pude trabalhar na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React, participei da estilização da aplicação e assegurei sua responsividade. Ao fim da data de entrega encerrei minha participação na feira de soluções apresentando o projeto para diversos universitários e visitantes da Fatec.
 
 <br>
 
-### Hard Skills
+---
+
+## 🛠️ Hard Skills
 
 * Desenvolvimento utlizando a linguagem TypeScript - Realizo com auxílio
 * Elaboração do front-end utilizando React - Realizo com autonomia
 
 <br>
 
-### Soft Skills
+---
+
+### 🧠 Soft Skills
 
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
 - **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
-- 
-<br>
-<hr>
+  
 <br>
 
 → [Voltar ao topo](#topo)
+
+---
 
 <span id='4'>
   
@@ -387,7 +404,7 @@ A **solução** proposta é a criação de uma plataforma visualmente intuitiva 
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Projeto.gif)
 
----
+
 
 ## ⚒️ Tecnologias Utilizadas
 
@@ -449,6 +466,7 @@ A **solução** proposta é a criação de uma plataforma visualmente intuitiva 
     Utilizado para o gerenciamento das tarefas e acompanhamento do progresso do projeto.
   </span>
 </div>
+<br>
 
 ---
 
@@ -457,6 +475,8 @@ A **solução** proposta é a criação de uma plataforma visualmente intuitiva 
 Neste projeto, atuando como DevTeam no início do projeto, no meio do desenvolvimento do projeto, assumi o cargo de PO, mantendo relação direta com o cliente e ajustando as ideias do cliente com as funcionalidades que estavam sendo desenvolvidas, pude desenvolver um bom papel de comunicação efetiva, com o grupo, professores e cliente, como Dev fui responsável pela implementação da interface do usuário utilizando **React** e **TypeScript**, criando uma plataforma dinâmica e responsiva. Além disso, contribui na criação do design do sistema com **Figma**, garantindo um sistema limpo e de fácil utilização.
 
 Participei da definição das funcionalidades do sistema, tive contribuição na tela de Login, na criação e modelagem da NavTab, na tela de perfil e na tela de Informativos/Tutoriais. Trabalhei na colaboração com os outros membros da equipe para garantir um sistema que atendesse as expectativas do cliente e que a experiência do usuário fosse intuitiva e eficiente, alinhando o esforço da equipe as expectativas do cliente com as funcionalidades desenvolvidas.
+
+<br>
 
 ---
 
