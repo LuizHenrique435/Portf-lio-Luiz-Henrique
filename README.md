@@ -593,11 +593,15 @@ Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Ge
   </span>
 </div>
 
+<br>
+
 ---
 
 ## 💡 Contribuições Pessoais
 
 Neste projeto, atuei como DevTeam, participando da prototipação do projeto e criando o front-end das telas, cumprindo minhas tarefas e sendo proativo buscando ajudar os outros integrantes do grupo. Fui responsável por gerenciar o planejamento no Trello, garantindo máximo desempenho de todos os colegas de grupo e máxima eficiencia nas tarefas. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como Login, Perfil, e outras melhorias visuais no sistema.
+
+<br>
 
 ---
 
@@ -608,6 +612,8 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 - **Prototipação e Design de Interfaces com Figma** - Realizo com autonomia.
 - **Controle de versão com GitHub** - Realizo com autonomia.
 - **Gerenciamento do Trello** - Realizo com autonomia.
+  
+<br>
 
 ---
 
