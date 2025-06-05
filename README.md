@@ -170,7 +170,7 @@ Além das pesquisas, fiquei responsável por testar o sistemas já com as macros
   
 </ul>
 
-→ [Voltar ao topo](#topo)
+> [Voltar ao topo](#topo)
 
 <br/>
 
@@ -289,7 +289,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 <br/>
 
-→ [Voltar ao topo](#topo)
+> [Voltar ao topo](#topo)
 
 </div>
 <br>
@@ -385,7 +385,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da
   
 <br>
 
-→ [Voltar ao topo](#topo)
+> [Voltar ao topo](#topo)
 
 ---
 
@@ -459,6 +459,15 @@ A **solução** proposta é a criação de uma plataforma visualmente intuitiva 
 
 <div>
   <span>
+    <img align="center" alt="Slack" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"><b>Slack</b> - </img>
+  </span>
+  <span>
+    Utilizado para comunicação entre a equipe de desenvolvimento, facilitando o compartilhamento de informações e decisões rápidas.
+  </span>
+</div>
+
+<div>
+  <span>
     <img align="center" alt="Trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"><b>Trello</b> - </img>
   </span>
   <span>
@@ -493,9 +502,121 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
 - **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
- 
 
+> [Voltar ao topo](#topo)
 
-→ [Voltar ao topo](#topo)
+<br>
 
+---
+
+<span id='5'>
+
+### Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
+
+### 📋 Desafio (Problema)
+
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o problema foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e tambem a lentidão na aprovação ou reprovação dos reembolsos. A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
+
+> Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
+
+![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
+
+---
+
+## 🌐 Tecnologias Utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><b>TypeScript</b> - </img>
+  </span>
+  <span>
+    Utilizado para garantir a segurança e robustez do código, além de facilitar a manutenção a longo prazo.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><b>React Native</b> - </img>
+  </span>
+  <span>
+    Utilizado para o desenvolvimento do aplicativo móvel, proporcionando uma navegação interativa e fluida.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Expo Go" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg"><b>Expo Go</b> - </img>
+  </span>
+  <span>
+    Utilizado para facilitar o desenvolvimento do aplicativo móvel, proporcionando uma experiência de desenvolvimento ágil e eficiente.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizado para design e prototipação das interfaces, garantindo uma melhor experiência do usuário.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Slack" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"><b>Slack</b> - </img>
+  </span>
+  <span>
+    Utilizado para comunicação entre a equipe de desenvolvimento, facilitando o compartilhamento de informações e decisões rápidas.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><b>MySQL</b> - </img>
+  </span>
+  <span>
+    Utilizado como banco de dados relacional para armazenamento de informações dos reembolsos e usuários.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><b>MongoDB</b> - </img>
+  </span>
+  <span>
+    Utilizado para armazenar dados não relacionais, como logs de atividades e dados temporários.
+  </span>
+</div>
+
+---
+
+## 💡 Contribuições Pessoais
+
+Neste projeto, atuei como DevTeam, participando da prototipação do projeto e criando o front-end das telas, cumprindo minhas tarefas e sendo proativo buscando ajudar os outros integrantes do grupo. Fui responsável por gerenciar o planejamento no Trello, garantindo máximo desempenho de todos os colegas de grupo e máxima eficiencia nas tarefas. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como Login, Perfil, e outras melhorias visuais no sistema.
+
+---
+
+## 🛠️ Hard Skills
+
+- **Gestão de Projetos com Scrum** - Realizo com autonomia.
+- **Desenvolvimento Frontend com React Native e TypeScript** - Realizo com autonomia.
+- **Prototipação e Design de Interfaces com Figma** - Realizo com autonomia.
+- **Controle de versão com GitHub** - Realizo com autonomia.
+- **Gerenciamento do Trello** - Realizo com autonomia.
+
+---
+
+## 🧠 Soft Skills
+
+- **Gestão de Projeto**: fui responsável pela organização das tarefas no Trello, garantindo que não houvesse integrantes realizando a mesma tarefa.
+- **Comunicação Eficaz**: Mantive uma comunicação clara e eficiente com a equipe, facilitando o fluxo de informações e garantindo que todos estivessem alinhados quanto aos objetivos do projeto.
+- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
+
+> [Voltar ao topo](#topo)
 
