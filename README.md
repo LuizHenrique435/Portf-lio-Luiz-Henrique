@@ -19,7 +19,7 @@
   <p style="text-align: center;">
     Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Meu interesse pela tecnologia foi na Etec-Atibaia quando iniciei o curso de Desenvolvimento de Sistemas em 2020.
     
-Minha primeira interação com a área de programação foi na Etec Prof° Carmine Biagio Tundisi em 2020, quando desenvolvi as primeiras linha de comando nas aulas. Com certeza no início foi difícil, porém com o tempo e com determinação fui conseguindo solucionar problemas através dos códigos, ali nas aulas de Técnica de Programação e Algoritmos pude ter o primeiro contato com a linguagem C#. Com o desenvolvimento do curso, fui me aprofundando com as aulas de Técnica de programação e algoritmos, design digital, Analise e projetos de sistemas, Fundamentos da informática, programação Web 1,2 e 3, Banco de dados 1 e 2, desenvolvimento de sistemas, programação de aplicativos mobile 1 e 2, sistemas embarcados, qualidade e teste de software, internet/protocolos e segurança de sistemas de informação e com isso me aprofundei em diversos projeto em HTML, CSS, banco de dados, C#, Java Script, MySql, Arduino entre outras tecnologias, como último projeto de TCC na Etec, eu juntamente com o meu grupo desenvolvemos um projeto com Arduino, criamos um sistemas de irrigação automatizada, este projeto foi extremamente desafiador e acredito que ali concretizei uma paixão maior por programação. Na conclusão do ensino médio, me inscrevi para a Fatec Jornalista Omair Fagundes em Bragança Paulista, na onde conclui o 1° semestre e me transferi para a Fatec Prof° Jessen Vidal em São José dos Campos, onde estou atualmente no 5° semestre.
+Minha primeira interação com a área de programação foi na Etec Prof° Carmine Biagio Tundisi em 2020, quando desenvolvi as primeiras linhas de comando nas aulas. Com certeza no início foi difícil, porém com o tempo e com determinação fui conseguindo solucionar problemas através dos códigos, ali nas aulas de Técnica de Programação e Algoritmos pude ter o primeiro contato com a linguagem C#. Com o desenvolvimento do curso, fui me aprofundando com as aulas de Técnica de programação e algoritmos, design digital, Analise e projetos de sistemas, Fundamentos da informática, programação Web 1,2 e 3, Banco de dados 1 e 2, desenvolvimento de sistemas, programação de aplicativos mobile 1 e 2, sistemas embarcados, qualidade e teste de software, internet/protocolos e segurança de sistemas de informação e com isso me aprofundei em diversos projeto em HTML, CSS, banco de dados, C#, Java Script, MySql, Arduino entre outras tecnologias, como último projeto de TCC na Etec, eu juntamente com o meu grupo desenvolvemos um projeto com Arduino, criamos um sistemas de irrigação automatizada, este projeto foi extremamente desafiador e acredito que ali concretizei uma paixão maior por programação. Na conclusão do ensino médio, me inscrevi para a Fatec Jornalista Omair Fagundes em Bragança Paulista, na onde conclui o 1° semestre e me transferi para a Fatec Prof° Jessen Vidal em São José dos Campos, onde estou atualmente no 5° semestre.
 
 Atualmente na área do desenvolvimento de software, estou interessado em ingressar no mercado de trabalho e adquirir e melhorar meus atuais conhecimentos, estou focado em aprimorar minhas habilidades no back-end e no front-end, sendo assim identificando pontos fracos e estudando cada vez mais. Além das Soft-Skills, essa trajetória tem me permitido desenvolver habilidades interpessoais importantes, como comunicação, trabalho em equipe e resolução de problemas, que são essenciais para uma carreira de sucesso na área de tecnologia. Estou me desenvolvendo e criando hábitos que me ajudem a crescer profissionalmente e pessoalmente e, assim conseguindo me tornar um profissional de excelência.
 
@@ -88,7 +88,7 @@ Atualmente na área do desenvolvimento de software, estou interessado em ingress
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de materias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. O problema era desenvolver um sistema integrado e eficiente, calculando despesas de produção, estoque, vendas e desempenho dos colaboradores. A **solução** surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa(Compras, Produção, Finanças, Funcionarios, RH, Vendas, Logistica, Estoque, Banco de dados), e cada time deveria criar sua parte do projeto.
+Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de matérias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. O problema era desenvolver um sistema integrado e eficiente, calculando despesas de produção, estoque, vendas e desempenho dos colaboradores. A **solução** surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa (Compras, Produção, Finanças, Funcionários, RH, Vendas, Logística, Estoque, Banco de dados), e cada time deveria criar sua parte do projeto.
 
 A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office.
 
@@ -137,7 +137,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 Durante o desenvolvimento, fiz parte do Scrum Team , fui responsável por levantar dados sobre a produção de canecas, os materiais e os maquinários necessários, após as pesquisas fizemos uma reunião para apresentação de quais canecas seriam produzidas, sendo assim decidimos que iriam ser produzidas canecas de porcelana e acrílico, fiquei com a responsabilidade de procurar os materiais que seriam necessários para calcular os custos de produção com materiais, maquinários, funcionários e a partir disso dar início a produção para abastecimento do banco de dados. <br> 
 
-Além das pesquisas, fiquei responsável por testar o sistemas já com as macros e os códigos em VBA, e dar ideias sobre melhorias de rotas ou criação de novas macros e melhorias das que estavam em funcionamento para melhor legibilidade e manutenção.
+Além das pesquisas, fiquei responsável por testar os sistemas já com as macros e os códigos em VBA, e dar ideias sobre melhorias de rotas ou criação de novas macros e melhorias das que estavam em funcionamento para melhor legibilidade e manutenção.
 
 <br>
 
@@ -283,7 +283,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
   </li>
   
   <li>
-    <b>Comunicação</b> - Tive o  privilégio de manter uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele e dentro do prazo estipulado.
+    <b>Comunicação</b> - Tive o privilégio de manter uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele e dentro do prazo estipulado.
   </li>
 </ul>
 
@@ -370,7 +370,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da
 
 ## 🛠️ Hard Skills
 
-* Desenvolvimento utlizando a linguagem TypeScript - Realizo com auxílio
+* Desenvolvimento utilizando a linguagem TypeScript - Realizo com auxílio
 * Elaboração do front-end utilizando React - Realizo com autonomia
 
 <br>
@@ -515,8 +515,7 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o problema foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e tambem a lentidão na aprovação ou reprovação dos reembolsos. A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
-
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o problema foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e também a lentidão na aprovação ou reprovação dos reembolsos. A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
@@ -624,4 +623,5 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
 
 > [Voltar ao topo](#topo)
+
 
