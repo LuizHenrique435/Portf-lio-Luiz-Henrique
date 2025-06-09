@@ -520,6 +520,8 @@ Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Ge
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
 
+<img src="images/Gif GSW.gif"/>
+
 
 ## 🌐 Tecnologias Utilizadas
 
