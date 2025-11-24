@@ -627,6 +627,8 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 
 > [Voltar ao topo](#topo)
 
+> <span id='6'></span>
+
 # Plataforma de Nutrição Personalizada com IA Generativa – Xertica.ai – 2025-2 (6º Semestre)
 
 ## 📊 PROJETO
