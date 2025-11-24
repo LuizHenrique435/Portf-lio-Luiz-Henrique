@@ -626,4 +626,89 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 
 > [Voltar ao topo](#topo)
 
+# Plataforma de Nutrição Personalizada com IA Generativa – Xertica.ai – 2025-2 (6º Semestre)
+
+## 📊 PROJETO
+
+**Colaboração:** Empresa **Xertica.ai**, especializada em soluções de IA corporativas, com o professor **Walmir Duque** como orientador técnico.
+
+A empresa **Xertica.ai** apresentou o desafio de criar uma plataforma digital inteligente para personalização nutricional em larga escala. O objetivo era fornecer recomendações alimentares realmente personalizadas aos colaboradores das empresas, utilizando IA Generativa para aumentar a adesão e o impacto dos programas de bem-estar corporativo.
+
+O **problema central** consistia na dificuldade em escalar a personalização nutricional, já que recomendações genéricas não supriam as necessidades específicas de cada indivíduo — afetando diretamente a eficácia das iniciativas de saúde corporativa.
+
+**Como solução**, a equipe desenvolveu uma plataforma web integrada a um **agente conversacional baseado em IA Generativa**, capaz de entender o perfil do usuário, sugerir rotinas nutricionais, acompanhar sua evolução e indicar locais próximos voltados à saúde e bem-estar.
+
+> Acesse o repositório deste projeto clicando [aqui](https://github.com/DriftOps/API-VI)
+
+<p align="center">
+  <img src="images/NutriX.png" width="600px"/>
+</p>
+
+---
+
+## 🌐 Tecnologias Utilizadas
+
+### 🖥️ Frontend
+- <img align="center" alt="Vue" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> **Vue + TypeScript** – Interface moderna e responsiva.
+
+### ⚙️ Backend
+- <img align="center" alt="Java" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> **Java + Spring Boot + JPA** – APIs e regras de negócio.
+
+### 🤖 Inteligência Artificial
+- <img align="center" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> **Python + IA Generativa** – RAG e recomendações inteligentes.
+
+### 🗄️ Banco de Dados
+- <img align="center" alt="PostgreSQL" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> **PostgreSQL**
+
+### 🎨 Design
+- <img align="center" alt="Figma" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> **Figma**
+
+### 💬 Comunicação
+- <img align="center" alt="Slack" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"> **Slack**
+
+### 📅 Gestão Ágil
+- <img align="center" alt="Trello" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> **Trello**
+
+---
+
+## 💡 Contribuições Pessoais – *Scrum Master*
+
+Como **Scrum Master da equipe**, atuei garantindo o bom andamento do processo ágil e facilitando a colaboração entre todos os membros. Entre minhas contribuições, destacam-se:
+
+- ✔ **Planejamento e facilitação de todas as Sprints**, com foco em clareza, propósito e entrega de valor.
+- ✔ **Condução das cerimônias ágeis**: Daily, Planning, Review e Retrospective.
+- ✔ **Organização e monitoramento do Trello**, estruturando quadros, prioridades e status das tarefas.
+- ✔ **Remoção ativa de impedimentos**, garantindo fluxo contínuo de desenvolvimento.
+- ✔ **Acompanhamento das métricas ágeis**, como burndown e capacidade do time.
+- ✔ **Suporte ao time de desenvolvimento**, facilitando alinhamentos entre frontend, backend e IA.
+- ✔ **Incentivo à cultura de melhoria contínua**, trazendo feedbacks, ajustando processos e fortalecendo a comunicação interna.
+- ✔ **Garantia de transparência** entre todos os stakeholders envolvidos, incluindo orientador e empresa parceira.
+
+---
+
+## 🛠️ Hard Skills
+
+- **Scrum e métodos ágeis** – Uso com autonomia  
+- **Gestão de Sprints e Backlog** – Uso com autonomia  
+- **Trello** – Uso com autonomia  
+- **Slack e comunicação assíncrona** – Uso com autonomia  
+- **Documentação de processos e rotinas ágeis** – Uso com suporte  
+- **Conhecimentos gerais em tecnologias do projeto (Vue, Spring, IA)** – Facilitando alinhamentos técnicos  
+
+---
+
+## 🧠 Soft Skills
+
+- **Liderança servidora**: Atuei ajudando a equipe a superar impedimentos e se manter produtiva.  
+- **Comunicação clara**: Mediando discussões e promovendo alinhamento constante.  
+- **Organização**: Estruturei processos e garanti previsibilidade nas sprints.  
+- **Colaboração e empatia**: Mantive um ambiente saudável, respeitoso e produtivo.  
+- **Análise crítica**: Apoiei decisões estratégicas com base em métricas das sprints.  
+
+---
+
+<p align="right">
+  <a href="#topo">Voltar ao topo ⬆️</a>
+</p>
+
 
