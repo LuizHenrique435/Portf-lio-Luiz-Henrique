@@ -677,7 +677,7 @@ Como **Scrum Master da equipe**, atuei garantindo o bom andamento do processo á
 
 - ✔ **Planejamento e facilitação de todas as Sprints**, com foco em clareza, propósito e entrega de valor.
 - ✔ **Condução das cerimônias ágeis**: Daily, Planning, Review e Retrospective.
-- ✔ **Organização e monitoramento do Trello**, estruturando quadros, prioridades e status das tarefas.
+- ✔ **Organização e monitoramento do Gira**, estruturando quadros, prioridades e status das tarefas.
 - ✔ **Remoção ativa de impedimentos**, garantindo fluxo contínuo de desenvolvimento.
 - ✔ **Acompanhamento das métricas ágeis**, como burndown e capacidade do time.
 - ✔ **Suporte ao time de desenvolvimento**, facilitando alinhamentos entre frontend, backend e IA.
@@ -690,7 +690,7 @@ Como **Scrum Master da equipe**, atuei garantindo o bom andamento do processo á
 
 - **Scrum e métodos ágeis** – Uso com autonomia  
 - **Gestão de Sprints e Backlog** – Uso com autonomia  
-- **Trello** – Uso com autonomia  
+- **Gira** – Uso com autonomia  
 - **Slack e comunicação assíncrona** – Uso com autonomia  
 - **Documentação de processos e rotinas ágeis** – Uso com suporte  
 - **Conhecimentos gerais em tecnologias do projeto (Vue, Spring, IA)** – Facilitando alinhamentos técnicos  
