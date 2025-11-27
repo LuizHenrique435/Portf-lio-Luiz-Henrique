@@ -171,7 +171,9 @@ Além das pesquisas, fiquei responsável por testar os sistemas já com as macro
   
 </ul>
 
-> [Voltar ao topo](#topo)
+<p align="right">
+  <a href="#topo">Voltar ao topo ⬆️</a>
+</p>
 
 <br/>
 
@@ -290,7 +292,10 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 <br/>
 
-> [Voltar ao topo](#topo)
+<p align="right">
+  <a href="#topo">Voltar ao topo ⬆️</a>
+</p>
+
 
 </div>
 <br>
@@ -386,7 +391,10 @@ Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da
   
 <br>
 
-> [Voltar ao topo](#topo)
+<p align="right">
+  <a href="#topo">Voltar ao topo ⬆️</a>
+</p>
+
 
 ---
 
@@ -504,7 +512,9 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 - **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
-> [Voltar ao topo](#topo)
+<p align="right">
+  <a href="#topo">Voltar ao topo ⬆️</a>
+</p>
 
 <br>
 
@@ -625,7 +635,10 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 - **Comunicação Eficaz**: Mantive uma comunicação clara e eficiente com a equipe, facilitando o fluxo de informações e garantindo que todos estivessem alinhados quanto aos objetivos do projeto.
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
 
-> [Voltar ao topo](#topo)
+<p align="right">
+  <a href="#topo">Voltar ao topo ⬆️</a>
+</p>
+
 <br>
 
 ---
