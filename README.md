@@ -636,13 +636,14 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 
 ## 📊 PROJETO
 
-**Colaboração:** Empresa **Xertica.ai**, especializada em soluções de IA corporativas, com o professor **Walmir Duque** como orientador técnico.
+**Colaboração:** Empresa **Xertica.ai**, especializada em soluções de IA corporativas, com orientação técnica do professor **Walmir Duque**.
 
-A empresa **Xertica.ai** apresentou o desafio de criar uma plataforma digital inteligente para personalização nutricional em larga escala. O objetivo era fornecer recomendações alimentares realmente personalizadas aos colaboradores das empresas, utilizando IA Generativa para aumentar a adesão e o impacto dos programas de bem-estar corporativo.
+A **Xertica.ai** propôs o desafio de desenvolver uma plataforma digital inteligente capaz de oferecer personalização nutricional em larga escala. A meta era proporcionar recomendações alimentares realmente individualizadas aos colaboradores das empresas, utilizando IA Generativa para aumentar a adesão e potencializar o impacto dos programas de bem-estar corporativo.
 
-O **problema central** consistia na dificuldade em escalar a personalização nutricional, já que recomendações genéricas não supriam as necessidades específicas de cada indivíduo — afetando diretamente a eficácia das iniciativas de saúde corporativa.
+O **problema central** estava na dificuldade de escalar a personalização nutricional, uma vez que recomendações genéricas não atendiam às necessidades específicas de cada indivíduo — reduzindo a eficiência das iniciativas de saúde nas organizações.
 
-**Como solução**, a equipe desenvolveu uma plataforma web integrada a um **agente conversacional baseado em IA Generativa**, capaz de entender o perfil do usuário, sugerir rotinas nutricionais, acompanhar sua evolução e indicar locais próximos voltados à saúde e bem-estar.
+**Como solução**, a equipe desenvolveu uma plataforma web integrada a um **agente conversacional com IA Generativa**, capaz de compreender o perfil do usuário, sugerir rotinas nutricionais personalizadas, acompanhar a evolução do emagrecimento e indicar locais próximos relacionados à saúde e bem-estar.
+
 
 > Acesse o repositório deste projeto clicando [aqui](https://github.com/DriftOps/API-VI)
 
