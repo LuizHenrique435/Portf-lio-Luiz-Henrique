@@ -678,14 +678,14 @@ O **problema central** consistia na dificuldade em escalar a personalização nu
 
 Como **Scrum Master da equipe**, atuei garantindo o bom andamento do processo ágil e facilitando a colaboração entre todos os membros. Entre minhas contribuições, destacam-se:
 
-- ✔ **Planejamento e facilitação de todas as Sprints**, com foco em clareza, propósito e entrega de valor.
-- ✔ **Condução das cerimônias ágeis**: Daily, Planning, Review e Retrospective.
-- ✔ **Organização e monitoramento do Gira**, estruturando quadros, prioridades e status das tarefas.
-- ✔ **Remoção ativa de impedimentos**, garantindo fluxo contínuo de desenvolvimento.
-- ✔ **Acompanhamento das métricas ágeis**, como burndown e capacidade do time.
-- ✔ **Suporte ao time de desenvolvimento**, facilitando alinhamentos entre frontend, backend e IA.
-- ✔ **Incentivo à cultura de melhoria contínua**, trazendo feedbacks, ajustando processos e fortalecendo a comunicação interna.
-- ✔ **Garantia de transparência** entre todos os stakeholders envolvidos, incluindo orientador e empresa parceira.
+-  **Planejamento e facilitação de todas as Sprints**, com foco em clareza, propósito e entrega de valor.
+-  **Condução das cerimônias ágeis**: Daily, Planning, Review e Retrospective.
+-  **Organização e monitoramento do Gira**, estruturando quadros, prioridades e status das tarefas.
+-  **Remoção ativa de impedimentos**, garantindo fluxo contínuo de desenvolvimento.
+-  **Acompanhamento das métricas ágeis**, como burndown e capacidade do time.
+-  **Suporte ao time de desenvolvimento**, facilitando alinhamentos entre frontend, backend e IA.
+-  **Incentivo à cultura de melhoria contínua**, trazendo feedbacks, ajustando processos e fortalecendo a comunicação interna.
+-  **Garantia de transparência** entre todos os stakeholders envolvidos, incluindo orientador e empresa parceira.
 
 ---
 
