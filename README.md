@@ -626,6 +626,9 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
 
 > [Voltar ao topo](#topo)
+<br>
+
+---
 
 > <span id='6'></span>
 
@@ -676,16 +679,11 @@ O **problema central** consistia na dificuldade em escalar a personalização nu
 
 ## 💡 Contribuições Pessoais – *Scrum Master*
 
-Como **Scrum Master da equipe**, atuei garantindo o bom andamento do processo ágil e facilitando a colaboração entre todos os membros. Entre minhas contribuições, destacam-se:
+Atuei como **Scrum Master**, garantindo a organização, o alinhamento e o ritmo de desenvolvimento do projeto. Conduzi todas as cerimônias ágeis — Daily, Planning, Review e Retrospective — e gerenciei o fluxo de trabalho no **Jira**, estruturando Sprints claras e acompanhando métricas como burndown para apoiar decisões do time. Trabalhei continuamente na remoção de impedimentos e na melhoria do processo, promovendo produtividade e colaboração.
 
--  **Planejamento e facilitação de todas as Sprints**, com foco em clareza, propósito e entrega de valor.
--  **Condução das cerimônias ágeis**: Daily, Planning, Review e Retrospective.
--  **Organização e monitoramento do Gira**, estruturando quadros, prioridades e status das tarefas.
--  **Remoção ativa de impedimentos**, garantindo fluxo contínuo de desenvolvimento.
--  **Acompanhamento das métricas ágeis**, como burndown e capacidade do time.
--  **Suporte ao time de desenvolvimento**, facilitando alinhamentos entre frontend, backend e IA.
--  **Incentivo à cultura de melhoria contínua**, trazendo feedbacks, ajustando processos e fortalecendo a comunicação interna.
--  **Garantia de transparência** entre todos os stakeholders envolvidos, incluindo orientador e empresa parceira.
+Além das responsabilidades de gestão ágil, também ofereci suporte técnico na integração entre frontend em **Vue + TypeScript**, backend em **Java Spring Boot** e os módulos de **IA em Python**, garantindo consistência entre as entregas e os requisitos da empresa parceira **Xertica.ai**. Contribuí no refinamento das interfaces no **Figma**, apoiando a criação de fluxos mais claros e uma experiência mais intuitiva.
+
+Minha atuação foi guiada por liderança servidora, comunicação clara e colaboração constante, contribuindo diretamente para um ambiente saudável e para a qualidade final da plataforma desenvolvida.
 
 ---
 
