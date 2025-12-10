@@ -424,7 +424,7 @@ Atuei como integrante do DevTeam, contribuindo diretamente no desenvolvimento do
 
 Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores e apresentação da empresa.
 
-##🧩 Solução Desenvolvida
+### 🧩 Solução Desenvolvida
 
 A **solução** proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento e fazendo um sistema de fácil utilização.
 
