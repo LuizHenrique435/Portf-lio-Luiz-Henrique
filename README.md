@@ -89,11 +89,15 @@ Atualmente na área do desenvolvimento de software, estou interessado em ingress
 
 ### 📋 Desafio (Problema)
 
-A Fatec de Bragança Paulista simulou uma empresa fictícia de produção e venda de canecas, na qual cada setor operacional trabalhava de forma isolada utilizando planilhas manuais. As informações de compras, produção, vendas e estoque não eram padronizadas, o que gerava divergências nos cálculos e retrabalho constante. Além disso, tarefas repetitivas, como atualização de custos, registro de pedidos e controle de funcionários, eram feitas manualmente, aumentando a chance de erros e tornando o processo lento e pouco confiável.
+A Fatec simulou uma empresa fictícia de fabricação e venda de canecas, onde cada setor operava de forma isolada e dependente de planilhas manuais. A ausência de padronização entre compras, produção, vendas e estoque ocasionava divergências frequentes nos dados, retrabalho e dificuldade de rastrear informações críticas. Processos essenciais — como atualização de custos, registro de pedidos, cálculo de produção e controle de funcionários — eram executados manualmente, aumentando o risco de erros e reduzindo a eficiência operacional.
+Essa realidade demandava uma solução que centralizasse os dados, eliminasse inconsistências e automatizasse rotinas repetitivas.
 
-Como **solução**, a equipe desenvolveu um sistema desktop em Excel com automações em VBA, centralizando os dados de todos os setores em um único ambiente. O sistema integra registros de compras, estoque, produção, RH e vendas, automatizando cálculos de custos e reduzindo erros operacionais. Foram criadas macros para otimizar tarefas repetitivas, melhorar o fluxo de informações e facilitar o acompanhamento do desempenho da empresa. Uma interface organizada permite que cada setor registre suas atividades de forma padronizada, garantindo consistência e agilidade nos processos.
+### 🧩 Solução Desenvolvida
 
-A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office.
+Como **solução** a equipe desenvolveu um sistema desktop integrado no Excel, utilizando VBA e Macros para automatizar atividades manuais e padronizar o fluxo de informações. A solução reúne em um único ambiente os módulos de Compras, Produção, Vendas, RH e Estoque, automatizando cálculos, consolidando registros e reduzindo falhas operacionais.
+
+Foram criadas rotinas automatizadas para controle de pedidos, geração de relatórios, cálculo de custos e atualização de dados produtivos. A interface organizada permitiu que cada setor registrasse suas atividades de maneira padronizada, garantindo mais confiabilidade, agilidade e rastreabilidade.
+A solução deveria obrigatoriamente utilizar Excel, Macros e VBA.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/LuizHenrique435/ERP-Canecatec" target="_blank">aqui!</a>
 
@@ -107,7 +111,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
     <img align="center" alt="MySQL" height="40" width="40" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.11.2/1732645302637/Microsoft.VisualStudio.Services.Icons.Default"><b>VBA</b> - </img>
   </span>
   <span>
-    Utilizada para gerenciamento e armazenamento de dados.
+    Linguagem utilizada para criar automações, rotinas lógicas e funcionalidades dinâmicas do sistema.
   </span>
 </div>
 <br>
@@ -117,7 +121,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
     <img align="center" alt="NetBeans" height="40" width="35" src="https://www.freeiconspng.com/thumbs/excel-icon/excel-icon-12.png"><b>Excel</b> - </img>
   </span>
   <span>
-    Utilizada como interface de desenvolvimento para o projeto.
+    Interface principal para desenvolvimento do sistema e estruturação dos módulos.
   </span>
 </div>
 <br>
@@ -129,7 +133,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
     <img align="center" alt="Local Hosting" height="40" width="40" src="https://static.thenounproject.com/png/808277-512.png"><b>Hospedagem Local</b> - </img>
   </span>
   <span>
-    Utilizado para o desenvolvimento e execução local da aplicação.
+    Todo o sistema foi desenvolvido e executado localmente em estações internas.
   </span>
 </div>
 <br>
@@ -138,9 +142,10 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 ### 💡Contribuições Pessoais
 
-Durante o desenvolvimento, fiz parte do DevTeam , fui responsável por levantar dados sobre a produção de canecas, os materiais e os maquinários necessários, após as pesquisas fizemos uma reunião para apresentação de quais canecas seriam produzidas, sendo assim decidimos que iriam ser produzidas canecas de porcelana e acrílico, fiquei com a responsabilidade de procurar os materiais que seriam necessários para calcular os custos de produção com materiais, maquinários, funcionários e a partir disso dar início a produção para abastecimento do banco de dados. <br> 
+Participei como membro ativo do DevTeam, realizando estudos sobre materiais, processos produtivos, maquinário necessário e custos de produção das canecas. Após o levantamento de dados, apresentei análises que ajudaram a equipe a definir os modelos de canecas a serem fabricados (porcelana e acrílico), contribuindo diretamente para a construção das bases de custos e abastecimento do banco de dados.
+<br> 
 
-Além das pesquisas, fiquei responsável por testar os sistemas já com as macros e os códigos em VBA, e dar ideias sobre melhorias de rotas ou criação de novas macros e melhorias das que estavam em funcionamento para melhor legibilidade e manutenção.
+Também fui responsável por testar o sistema em Excel com VBA, identificando inconsistências, sugerindo melhorias nas rotas e propondo novas macros para otimizar o funcionamento. Auxiliei na melhoria da legibilidade do código e na manutenção das rotinas, contribuindo para um desenvolvimento mais organizado e eficiente.
 
 <br>
 
@@ -149,7 +154,7 @@ Além das pesquisas, fiquei responsável por testar os sistemas já com as macro
 ## 🛠️ Hard Skills
 <ul>
   <li><b>Programação em VBA</b> - Realizo com autonomia, conforme as necessidades do sistema.</li>
-  <li><b>Pesquisas de Campo</b> - Realizo com autonomia, organizando ideias, tendo criatividade para implementar funcionalidades no sistema.</li>
+  <li><b>Levantamento de requisitos e pesquisa de campo</b> - Realizo com autonomia, organizando ideias, tendo criatividade para implementar funcionalidades no sistema.</li>
   <li><b>Macros</b> - Realizo com auxilio, visando acertar 100% a funcionalidade necessária.</li>
   <li><b>Desenvolvimento com Excel</b> - Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto e usando o máximo dos recursos do software.</li>
 </ul>
