@@ -721,7 +721,7 @@ A **Xertica.ai** propôs o desafio de desenvolver uma plataforma digital intelig
 - <img align="center" alt="Slack" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"> **Slack**
 
 ### 📅 Gestão Ágil
-- <img align="center" alt="Jira" height="20" width="20" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)"> **Jira**
+- <img align="center" alt="Jira" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"> **Jira**
 
 ---
 
