@@ -89,7 +89,9 @@ Atualmente na área do desenvolvimento de software, estou interessado em ingress
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela Fatec de Bragança Paulista, foi um projeto acadêmico que foi solicitado pelos professores da tríade de matérias, o objetivo do projeto era desenvolver um ERP para vendas de canecas pelo Excel. O problema era desenvolver um sistema integrado e eficiente, calculando despesas de produção, estoque, vendas e desempenho dos colaboradores. A **solução** surgiu após os professores dividirem a turma em grupos que englobavam setores de uma suposta empresa (Compras, Produção, Finanças, Funcionários, RH, Vendas, Logística, Estoque, Banco de dados), e cada time deveria criar sua parte do projeto.
+A Fatec de Bragança Paulista simulou uma empresa fictícia de produção e venda de canecas, na qual cada setor operacional trabalhava de forma isolada utilizando planilhas manuais. As informações de compras, produção, vendas e estoque não eram padronizadas, o que gerava divergências nos cálculos e retrabalho constante. Além disso, tarefas repetitivas, como atualização de custos, registro de pedidos e controle de funcionários, eram feitas manualmente, aumentando a chance de erros e tornando o processo lento e pouco confiável.
+
+Como **solução**, a equipe desenvolveu um sistema desktop em Excel com automações em VBA, centralizando os dados de todos os setores em um único ambiente. O sistema integra registros de compras, estoque, produção, RH e vendas, automatizando cálculos de custos e reduzindo erros operacionais. Foram criadas macros para otimizar tarefas repetitivas, melhorar o fluxo de informações e facilitar o acompanhamento do desempenho da empresa. Uma interface organizada permite que cada setor registre suas atividades de forma padronizada, garantindo consistência e agilidade nos processos.
 
 A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Basic for Applications) que é uma linguagem de programação que permite automatizar tarefas e processos manuais no Microsoft Office.
 
