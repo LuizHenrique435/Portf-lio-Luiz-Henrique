@@ -560,7 +560,7 @@ Para solucionar esses problemas, foi desenvolvido um aplicativo móvel intuitivo
 <img src="images/Gif GSW.gif"/>
 
 
-## 🌐 Tecnologias Utilizadas
+## ⚒️ Tecnologias utilizadas
 
 <div>
   <span>
@@ -700,7 +700,7 @@ A **Xertica.ai** propôs o desafio de desenvolver uma plataforma digital intelig
 
 ---
 
-## 🌐 Tecnologias Utilizadas
+## ⚒️ Tecnologias utilizadas
 
 ### 🖥️ Frontend
 - <img align="center" alt="Vue" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> **Vue + TypeScript** – Interface moderna e responsiva.
