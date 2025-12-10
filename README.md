@@ -400,7 +400,7 @@ Durante este projeto, atuei como DevTeam, contribuindo para o front-end da aplic
 
 <span id='4'>
   
-# Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
+# Em 2024-2 - Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
 
 ## 📋 Desafio (Problema)
 
@@ -523,7 +523,7 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 
 <span id='5'>
 
-### Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
+### Em 2025-1 - Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
 
 ### 📋 Desafio (Problema)
 
@@ -650,7 +650,7 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 
 > <span id='6'></span>
 
-# Plataforma de Nutrição Personalizada com IA Generativa – Xertica.ai – 2025-2 (6º Semestre)
+# Em 2025-2 - Plataforma de Nutrição Personalizada com IA Generativa – Xertica.ai – 2025-2 (6º Semestre)
 
 ## 📊 PROJETO
 
