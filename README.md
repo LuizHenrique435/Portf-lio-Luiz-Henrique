@@ -687,6 +687,8 @@ O **problema central** estava na dificuldade de escalar a personalização nutri
 
 A **Xertica.ai** propôs o desafio de desenvolver uma plataforma digital inteligente capaz de oferecer personalização nutricional em larga escala. A meta era proporcionar recomendações alimentares realmente individualizadas aos colaboradores das empresas, utilizando IA Generativa para aumentar a adesão e potencializar o impacto dos programas de bem-estar corporativo.
 
+### 🧩 Solução Desenvolvida
+
 **Como solução**, a equipe desenvolveu uma plataforma web integrada a um **agente conversacional com IA Generativa**, capaz de compreender o perfil do usuário, sugerir rotinas nutricionais personalizadas, acompanhar a evolução do emagrecimento e indicar locais próximos relacionados à saúde e bem-estar.
 
 
