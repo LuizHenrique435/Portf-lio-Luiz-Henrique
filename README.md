@@ -169,7 +169,7 @@ Também fui responsável por testar o sistema em Excel com VBA, identificando in
     <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros das outras equipes para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros. Realizava pequenas reuniões com o meu grupo, coletava informações referente ao que estava sendo desenvolvido e conversava com os demais grupos para obter informações do que eles estavam desenvolvendo para que todos estivéssemos alinhados no mesmo proposito  
   </li>
 <li>
-  <b>Trabalho em equipe com outras equipes</b> - Trabalhando em conjunto com o meu grupo e com os outros grupos da sala, buscando otimizar o tempo e o trabalho de todos, sempre mantendo uma comunicação clara e inteligente para desenvolvimento objetivo do sistema. Fiz a comunicação para que as entregas fossem feitas dentro do prazo
+  <b>Colaboração Interdisciplinar</b> - Trabalhando em conjunto com o meu grupo e com os outros grupos da sala, buscando otimizar o tempo e o trabalho de todos, sempre mantendo uma comunicação clara e inteligente para desenvolvimento objetivo do sistema. Fiz a comunicação para que as entregas fossem feitas dentro do prazo
  </li> 
   
   <li>
