@@ -136,7 +136,7 @@ A solução deveria envolver o uso do **Excel**, **Macros** e **VBA** (Visual Ba
 
 ### 💡Contribuições Pessoais
 
-Durante o desenvolvimento, fiz parte do Scrum Team , fui responsável por levantar dados sobre a produção de canecas, os materiais e os maquinários necessários, após as pesquisas fizemos uma reunião para apresentação de quais canecas seriam produzidas, sendo assim decidimos que iriam ser produzidas canecas de porcelana e acrílico, fiquei com a responsabilidade de procurar os materiais que seriam necessários para calcular os custos de produção com materiais, maquinários, funcionários e a partir disso dar início a produção para abastecimento do banco de dados. <br> 
+Durante o desenvolvimento, fiz parte do DevTeam , fui responsável por levantar dados sobre a produção de canecas, os materiais e os maquinários necessários, após as pesquisas fizemos uma reunião para apresentação de quais canecas seriam produzidas, sendo assim decidimos que iriam ser produzidas canecas de porcelana e acrílico, fiquei com a responsabilidade de procurar os materiais que seriam necessários para calcular os custos de produção com materiais, maquinários, funcionários e a partir disso dar início a produção para abastecimento do banco de dados. <br> 
 
 Além das pesquisas, fiquei responsável por testar os sistemas já com as macros e os códigos em VBA, e dar ideias sobre melhorias de rotas ou criação de novas macros e melhorias das que estavam em funcionamento para melhor legibilidade e manutenção.
 
@@ -368,7 +368,7 @@ Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gi
 
 ### 💡Contribuições pessoais
 
-Durante este projeto, atuei como desenvolvedor, contribuindo para o front-end da aplicação. Pude trabalhar na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React, participei da estilização da aplicação e assegurei sua responsividade. Ao fim da data de entrega encerrei minha participação na feira de soluções apresentando o projeto para diversos universitários e visitantes da Fatec.
+Durante este projeto, atuei como DevTeam, contribuindo para o front-end da aplicação. Pude trabalhar na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React, participei da estilização da aplicação e assegurei sua responsividade. Ao fim da data de entrega encerrei minha participação na feira de soluções apresentando o projeto para diversos universitários e visitantes da Fatec.
 
 <br>
 
@@ -509,6 +509,7 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 ## 🧠 Soft Skills
 
 - **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
+- **Gestão de Equipe**: Atuando como Product Owner da equipe, pude pela primeira vez, liderar a equipe e ser responsável pela mediação entre a Equipe, Stakeholders e Empresa Parceira.
 - **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
@@ -526,7 +527,7 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o problema foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e também a lentidão na aprovação ou reprovação dos reembolsos. A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o **problema** foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e também a lentidão na aprovação ou reprovação dos reembolsos. A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
@@ -631,9 +632,13 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 
 ## 🧠 Soft Skills
 
-- **Gestão de Projeto**: fui responsável pela organização das tarefas no Trello, garantindo que não houvesse integrantes realizando a mesma tarefa.
-- **Comunicação Eficaz**: Mantive uma comunicação clara e eficiente com a equipe, facilitando o fluxo de informações e garantindo que todos estivessem alinhados quanto aos objetivos do projeto.
-- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
+- **Gestão de Projeto**: Atuei na organização e acompanhamento das tarefas no Trello, garantindo clareza nas responsabilidades e evitando retrabalho entre os integrantes.
+- **Comunicação Eficaz**: Mantive um fluxo constante e claro de comunicação com a equipe, facilitando alinhamentos rápidos e garantindo que todos estivessem cientes das prioridades do projeto.
+- **Trabalho em Equipe**: Colaborei ativamente com os colegas, oferecendo suporte técnico, compartilhando conhecimento e ajudando a resolver impedimentos durante o desenvolvimento.
+- **Proatividade e Autonomia**: Antecipei necessidades da equipe e do projeto, tomando iniciativas para resolver problemas e melhorar processos sem depender de direcionamentos constantes.
+- **Aprendizado Contínuo**: Evoluí constantemente durante o projeto, adquirindo novas habilidades em design e desenvolvimento mobile e aplicando-as de forma prática.
+- **Empatia com o Usuário**: Contribuí para a construção de interfaces intuitivas, sempre considerando a experiência do usuário na definição dos fluxos.
+- **Liderança Colaborativa**: Mesmo como DevTeam, organizei tarefas, apoiei colegas e ajudei a manter o ritmo e a eficiência da equipe.
 
 <p align="right">
   <a href="#topo">Voltar ao topo ⬆️</a>
@@ -651,9 +656,9 @@ Neste projeto, atuei como DevTeam, participando da prototipação do projeto e c
 
 **Colaboração:** Empresa **Xertica.ai**, especializada em soluções de IA corporativas, com orientação técnica do professor **Walmir Duque**.
 
-A **Xertica.ai** propôs o desafio de desenvolver uma plataforma digital inteligente capaz de oferecer personalização nutricional em larga escala. A meta era proporcionar recomendações alimentares realmente individualizadas aos colaboradores das empresas, utilizando IA Generativa para aumentar a adesão e potencializar o impacto dos programas de bem-estar corporativo.
-
 O **problema central** estava na dificuldade de escalar a personalização nutricional, uma vez que recomendações genéricas não atendiam às necessidades específicas de cada indivíduo — reduzindo a eficiência das iniciativas de saúde nas organizações.
+
+A **Xertica.ai** propôs o desafio de desenvolver uma plataforma digital inteligente capaz de oferecer personalização nutricional em larga escala. A meta era proporcionar recomendações alimentares realmente individualizadas aos colaboradores das empresas, utilizando IA Generativa para aumentar a adesão e potencializar o impacto dos programas de bem-estar corporativo.
 
 **Como solução**, a equipe desenvolveu uma plataforma web integrada a um **agente conversacional com IA Generativa**, capaz de compreender o perfil do usuário, sugerir rotinas nutricionais personalizadas, acompanhar a evolução do emagrecimento e indicar locais próximos relacionados à saúde e bem-estar.
 
@@ -687,7 +692,7 @@ O **problema central** estava na dificuldade de escalar a personalização nutri
 - <img align="center" alt="Slack" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"> **Slack**
 
 ### 📅 Gestão Ágil
-- <img align="center" alt="Trello" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> **Trello**
+- <img align="center" alt="Jira" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> **Jira**
 
 ---
 
@@ -705,7 +710,7 @@ Minha atuação foi guiada por liderança servidora, comunicação clara e colab
 
 - **Scrum e métodos ágeis** – Uso com autonomia  
 - **Gestão de Sprints e Backlog** – Uso com autonomia  
-- **Gira** – Uso com autonomia  
+- **Jira** – Uso com suporte  
 - **Slack e comunicação assíncrona** – Uso com autonomia  
 - **Documentação de processos e rotinas ágeis** – Uso com suporte  
 - **Conhecimentos gerais em tecnologias do projeto (Vue, Spring, IA)** – Facilitando alinhamentos técnicos  
@@ -714,11 +719,13 @@ Minha atuação foi guiada por liderança servidora, comunicação clara e colab
 
 ## 🧠 Soft Skills
 
-- **Liderança servidora**: Atuei ajudando a equipe a superar impedimentos e se manter produtiva.  
-- **Comunicação clara**: Mediando discussões e promovendo alinhamento constante.  
-- **Organização**: Estruturei processos e garanti previsibilidade nas sprints.  
-- **Colaboração e empatia**: Mantive um ambiente saudável, respeitoso e produtivo.  
-- **Análise crítica**: Apoiei decisões estratégicas com base em métricas das sprints.  
+- **Resolução de conflitos**: Facilitei momentos de divergência entre áreas, garantindo decisões equilibradas e mantendo o foco no objetivo comum do projeto.  
+- **Pensamento sistêmico**: Analisei o impacto das entregas de cada squad no funcionamento geral da plataforma, antecipando riscos e otimizando processos.  
+- **Gestão de tempo e priorização**: Organizei o planejamento das Sprints, priorizando tarefas com maior valor para o produto e garantindo entregas consistentes.  
+- **Adaptabilidade**: Ajustei processos e rituais ágeis conforme surgiam imprevistos técnicos ou mudanças de escopo, mantendo o fluxo de desenvolvimento.  
+- **Facilitação de reuniões**: Conduzi cerimônias ágeis com objetividade, promovendo participação ativa e garantindo alinhamento entre equipe e requisitos.  
+- **Escuta ativa**: Compreendi as necessidades e dificuldades dos membros da equipe, permitindo intervenções assertivas para remoção de impedimentos.  
+- **Tomada de decisão colaborativa**: Estimulei o trabalho em conjunto para definição de rotas e soluções, fortalecendo engajamento e evitando retrabalho.  
 
 ---
 
