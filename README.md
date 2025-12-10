@@ -424,6 +424,8 @@ Atuei como integrante do DevTeam, contribuindo diretamente no desenvolvimento do
 
 Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores e apresentação da empresa.
 
+##🧩 Solução Desenvolvida
+
 A **solução** proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento e fazendo um sistema de fácil utilização.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/DriftOps/API-IV)
@@ -507,9 +509,9 @@ A **solução** proposta é a criação de uma plataforma visualmente intuitiva 
 
 ## 💡 Contribuições Pessoais
 
-Neste projeto, atuando como DevTeam no início do projeto, no meio do desenvolvimento do projeto, assumi o cargo de PO, mantendo relação direta com o cliente e ajustando as ideias do cliente com as funcionalidades que estavam sendo desenvolvidas, pude desenvolver um bom papel de comunicação efetiva, com o grupo, professores e cliente, como Dev fui responsável pela implementação da interface do usuário utilizando **React** e **TypeScript**, criando uma plataforma dinâmica e responsiva. Além disso, contribui na criação do design do sistema com **Figma**, garantindo um sistema limpo e de fácil utilização.
+Iniciei o projeto como **DevTeam**, atuando na criação de telas e funcionalidades com **React** e **TypeScript**. No decorrer do desenvolvimento, assumi o papel de **Product Owner**, tornando-me responsável pelo alinhamento entre equipe, cliente e stakeholders. Nesse papel, conduzi reuniões, refinei requisitos e garanti que as entregas atendessem às necessidades reais da empresa JJM Log.
 
-Participei da definição das funcionalidades do sistema, tive contribuição na tela de Login, na criação e modelagem da NavTab, na tela de perfil e na tela de Informativos/Tutoriais. Trabalhei na colaboração com os outros membros da equipe para garantir um sistema que atendesse as expectativas do cliente e que a experiência do usuário fosse intuitiva e eficiente, alinhando o esforço da equipe as expectativas do cliente com as funcionalidades desenvolvidas.
+Como desenvolvedor, contribuí diretamente na construção de diversas telas, como **Login, Perfil, Informativos/Tutoriais** e na **NavTab**, além de participar da modelagem geral da interface no **Figma**, garantindo uma experiência limpa, funcional e de fácil utilização. Trabalhei para que o sistema mantivesse consistência visual e atendesse às expectativas do cliente, equilibrando usabilidade e requisitos técnicos.
 
 <br>
 
@@ -517,10 +519,10 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 
 ## 🛠️ Hard Skills
 
-- **Desenvolvimento Frontend com React e TypeScript** - Realizo com autonomia.
-- **Design de Interfaces com Figma** - Realizo com autonomia.
-- **Controle de versão com GitHub** - Realizo com autonomia.
-- **Gerenciamento de projetos com Trello** - Realizo com autonomia.
+- React + TypeScript – Realizo com autonomia.
+- Design e prototipação com Figma – Realizo com autonomia.
+- GitHub para versionamento – Realizo com autonomia.
+- Gestão e organização de demandas com Trello – Realizo com autonomia.
 
 ---
 
