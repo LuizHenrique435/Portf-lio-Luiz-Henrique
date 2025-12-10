@@ -85,7 +85,7 @@ Atualmente na área do desenvolvimento de software, estou interessado em ingress
 
 <span id='1'>
 
-### Em 2023-1 - ERP - Canecatec(1° Semestre)
+# Em 2023-1 - ERP - Canecatec(1° Semestre)
 
 ### 📋 Desafio (Problema)
 
@@ -183,7 +183,7 @@ Além das pesquisas, fiquei responsável por testar os sistemas já com as macro
 
 <span id='2'>
 
-### Em 2023-2 - Assistente Virtual para Respostas(2° Semestre)
+# Em 2023-2 - Assistente Virtual para Respostas(2° Semestre)
 
 ### 📋 Desafio (Problema)
 
@@ -303,7 +303,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 ---
 <span id='3'>
 
-### Em 2024-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
+# Em 2024-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
 
 ### 📋 Desafio (Problema)
 
@@ -523,7 +523,7 @@ Participei da definição das funcionalidades do sistema, tive contribuição na
 
 <span id='5'>
 
-### Em 2025-1 - Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
+# Em 2025-1 - Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
 
 ### 📋 Desafio (Problema)
 
