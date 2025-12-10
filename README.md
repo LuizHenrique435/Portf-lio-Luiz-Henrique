@@ -321,7 +321,11 @@ Configurei o ambiente de desenvolvimento no **NetBeans IDE** e no **Eclipse**, a
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Giuliano Bertoti, o problema foi identificado junto com a empresa Pro4Tech onde os relatórios eram armazenados em planilhas do Excel e para ter acesso às informações quando o volume de dados era alto tanto era difícil para os colaboradores quanto para os gerentes, como **solução** foi solicitado a criação de um Dashboard onde era possível centralizar as informações e ter uma visualização mais limpa e eficiente. Este é um projeto acadêmico sobre Sistema de Gerenciamento e análise das vendas de forma ampla e detalhada, tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo Excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Giuliano Bertoti, o problema foi identificado junto com a empresa Pro4Tech onde os relatórios eram armazenados em planilhas do Excel e para ter acesso às informações quando o volume de dados era alto tanto era difícil para os colaboradores quanto para os gerentes.
+
+### 🧩 Solução Desenvolvida
+
+Como **solução** foi solicitado a criação de um Dashboard onde era possível centralizar as informações e ter uma visualização mais limpa e eficiente. Este é um projeto acadêmico sobre Sistema de Gerenciamento e análise das vendas de forma ampla e detalhada, tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo Excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
 
 [Clique aqui](https://github.com/Code-Lotus/api-3) para acessar o repositório do projeto.
 
