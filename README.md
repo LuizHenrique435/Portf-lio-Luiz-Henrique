@@ -321,12 +321,11 @@ Configurei o ambiente de desenvolvimento no **NetBeans IDE** e no **Eclipse**, a
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Giuliano Bertoti, o problema foi identificado junto com a empresa Pro4Tech onde os relatórios eram armazenados em planilhas do Excel e para ter acesso às informações quando o volume de dados era alto tanto era difícil para os colaboradores quanto para os gerentes.
+Este projeto foi desenvolvido na FATEC Jessen Vidal com orientação do professor Giuliano Bertoti, em parceria com a empresa Pro4Tech. O problema identificado foi a dificuldade em acessar e analisar relatórios que estavam armazenados em planilhas Excel. Quando o volume de dados aumentava, a consulta se tornava lenta e pouco eficiente tanto para colaboradores quanto gestores.
 
 ### 🧩 Solução Desenvolvida
 
-Como **solução** foi solicitado a criação de um Dashboard onde era possível centralizar as informações e ter uma visualização mais limpa e eficiente. Este é um projeto acadêmico sobre Sistema de Gerenciamento e análise das vendas de forma ampla e detalhada, tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo Excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
-
+Como solução, foi criado um Dashboard Web capaz de centralizar e apresentar as informações de forma visual, organizada e responsiva. O sistema permite que vendedores cadastrados visualizem suas estatísticas individuais, enquanto administradores têm acesso a uma visão geral das vendas e ao desempenho de cada vendedor. O objetivo principal foi transformar dados brutos em gráficos e indicadores de fácil compreensão, otimizando a tomada de decisões.
 [Clique aqui](https://github.com/Code-Lotus/api-3) para acessar o repositório do projeto.
 
  <img src="images/videoDashbord.gif"/>
@@ -340,7 +339,7 @@ Como **solução** foi solicitado a criação de um Dashboard onde era possível
     <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
   </span>
   <span>
-    Utilizada para o desenvolvimento do protótipo.
+    Utilizado para criação do protótipo do sistema
   </span>
 </div>
 <br>
@@ -349,7 +348,7 @@ Como **solução** foi solicitado a criação de um Dashboard onde era possível
     <img align="center" alt="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
   </span>
   <span>
-    Utilizada para o desenvolvimento do código do projeto.
+    Utilizado no desenvolvimento do código da aplicação.
   </span>
 </div>
 <br>
@@ -358,7 +357,7 @@ Como **solução** foi solicitado a criação de um Dashboard onde era possível
     <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"><b>JavaScript</b> - </img>
   </span>
   <span>
-    Utilizada como linguagem de programação para o desenvolvimento do projeto.
+    Linguagem utilizada para implementação da lógica do sistema.
   </span>
 </div>
 <br>
@@ -367,7 +366,7 @@ Como **solução** foi solicitado a criação de um Dashboard onde era possível
     <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React</b> - </img>
   </span>
   <span>
-    Utilizada para a estruturação do front-end.
+    Utilizado na construção e organização do front-end.
   </span>
 </div>
 <br>
@@ -376,7 +375,7 @@ Como **solução** foi solicitado a criação de um Dashboard onde era possível
     <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
   </span>
   <span>
-    Utilizada para a hospedagem do código.
+    Utilizado para versionamento e hospedagem do código.
   </span>
 </div>
 
@@ -386,16 +385,16 @@ Como **solução** foi solicitado a criação de um Dashboard onde era possível
 
 ### 💡Contribuições pessoais
 
-Durante este projeto, atuei como DevTeam, contribuindo para o front-end da aplicação. Pude trabalhar na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React, participei da estilização da aplicação e assegurei sua responsividade. Ao fim da data de entrega encerrei minha participação na feira de soluções apresentando o projeto para diversos universitários e visitantes da Fatec.
-
+Atuei como integrante do DevTeam, contribuindo diretamente no desenvolvimento do front-end. Trabalhei com React para implementar componentes e tornar a interface mais intuitiva e responsiva. Auxiliei na estilização geral da aplicação e participei da integração das telas com os dados fornecidos. No encerramento do projeto, representei o grupo apresentando o dashboard na feira de soluções da Fatec para estudantes e visitantes.
 <br>
 
 ---
 
 ## 🛠️ Hard Skills
 
-* Desenvolvimento utilizando a linguagem TypeScript - Realizo com auxílio
-* Elaboração do front-end utilizando React - Realizo com autonomia
+* Desenvolvimento utilizando JavaScript – Realizo com autonomia
+* Criação do front-end utilizando React – Realizo com autonomia
+* Desenvolvimento com TypeScript – Realizo com auxílio
 
 <br>
 
@@ -403,9 +402,9 @@ Durante este projeto, atuei como DevTeam, contribuindo para o front-end da aplic
 
 ### 🧠 Soft Skills
 
-- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
-- **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
-- **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
+- **Trabalho em equipe**: Colaborei com os demais membros do grupo garantindo alinhamento nas entregas e comunicação clara entre todos.
+- **Disposição para aprender**: Busquei conhecimento sobre tecnologias que ainda não dominava para contribuir efetivamente no projeto.
+- **Comunicação**: Mantive diálogo constante com a equipe e o cliente, garantindo alinhamento das expectativas e qualidade nas entregas.
   
 <br>
 
