@@ -547,7 +547,11 @@ Como desenvolvedor, contribuí diretamente na construção de diversas telas, co
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o **problema** foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e também a lentidão na aprovação ou reprovação dos reembolsos. A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o **problema** foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e também a lentidão na aprovação ou reprovação dos reembolsos.
+
+##🧩 Solução Desenvolvida
+
+A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
