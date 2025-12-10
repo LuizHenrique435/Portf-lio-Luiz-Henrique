@@ -85,7 +85,7 @@ Atualmente na área do desenvolvimento de software, estou interessado em ingress
 
 <span id='1'>
 
-# Em 2023-1 - ERP - Canecatec(1° Semestre)
+# Em 2023-1 - ERP - Canecatec (1° Semestre)
 
 ### 📋 Desafio (Problema)
 
@@ -190,7 +190,7 @@ Também fui responsável por testar o sistema em Excel com VBA, identificando in
 
 <span id='2'>
 
-# Em 2023-2 - Assistente Virtual para Respostas(2° Semestre)
+# Em 2023-2 - Assistente Virtual para Respostas (2° Semestre)
 
 ### 📋 Desafio (Problema)
 
