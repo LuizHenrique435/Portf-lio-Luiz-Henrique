@@ -326,6 +326,7 @@ Este projeto foi desenvolvido na FATEC Jessen Vidal com orientação do professo
 ### 🧩 Solução Desenvolvida
 
 Como solução, foi criado um Dashboard Web capaz de centralizar e apresentar as informações de forma visual, organizada e responsiva. O sistema permite que vendedores cadastrados visualizem suas estatísticas individuais, enquanto administradores têm acesso a uma visão geral das vendas e ao desempenho de cada vendedor. O objetivo principal foi transformar dados brutos em gráficos e indicadores de fácil compreensão, otimizando a tomada de decisões.
+
 [Clique aqui](https://github.com/Code-Lotus/api-3) para acessar o repositório do projeto.
 
  <img src="images/videoDashbord.gif"/>
