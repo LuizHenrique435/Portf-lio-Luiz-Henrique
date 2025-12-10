@@ -547,11 +547,12 @@ Como desenvolvedor, contribuí diretamente na construção de diversas telas, co
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor Gerson Penha, o **problema** foi identificado junto com a empresa **GSW** onde a empresa tinha dificuldade em gerenciar os processos de reembolso de despesas, a proposta foi criar um aplicativo móvel de fácil utilização e de interface intuitiva que visa solucionar desafios comuns enfrentados pela empresa na gestão de reembolsos, como perda de comprovantes, falta de limites de gasto e falta de transparência nos gastos, e também a lentidão na aprovação ou reprovação dos reembolsos.
+Neste projeto desenvolvido na FATEC Jessen Vidal, sob orientação do professor Gerson Penha, o problema identificado junto à empresa **GSW** foi a dificuldade em gerenciar o processo de reembolsos corporativos. Entre os principais desafios estavam a perda de comprovantes, falta de controle de limites de gastos, baixa transparência nos valores solicitados e lentidão no processo de aprovação ou reprovação.
 
-##🧩 Solução Desenvolvida
+### 🧩 Solução Desenvolvida
 
-A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovantes, criar pacotes de gastos em viagens, inserir gastos nos pacotes conforme o limite estabelecido, solicitar reembolso e ter acesso ao valor pendente de aprovação, valores aprovados e reprovados.
+Para solucionar esses problemas, foi desenvolvido um aplicativo móvel intuitivo, permitindo ao usuário fotografar comprovantes, criar pacotes de viagem com limites definidos, registrar despesas, acompanhar os valores pendentes, aprovados e reprovados, além de agilizar a solicitação de reembolso e melhorar a comunicação entre colaboradores e avaliadores.
+
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
@@ -566,7 +567,7 @@ A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovan
     <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><b>TypeScript</b> - </img>
   </span>
   <span>
-    Utilizado para garantir a segurança e robustez do código, além de facilitar a manutenção a longo prazo.
+    Garantiu maior segurança e robustez no desenvolvimento, com tipagem estática e melhor manutenção do código.
   </span>
 </div>
 <br>
@@ -576,7 +577,7 @@ A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovan
     <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><b>React Native</b> - </img>
   </span>
   <span>
-    Utilizado para o desenvolvimento do aplicativo móvel, proporcionando uma navegação interativa e fluida.
+   Utilizado para o desenvolvimento do aplicativo móvel, proporcionando navegação fluida e experiência nativa.
   </span>
 </div>
 <br>
@@ -586,7 +587,7 @@ A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovan
     <img align="center" alt="Expo Go" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg"><b>Expo Go</b> - </img>
   </span>
   <span>
-    Utilizado para facilitar o desenvolvimento do aplicativo móvel, proporcionando uma experiência de desenvolvimento ágil e eficiente.
+    Auxiliou o desenvolvimento com ferramentas nativas e agilidade no teste e execução do app.
   </span>
 </div>
 <br>
@@ -596,7 +597,7 @@ A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovan
     <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><b>Figma</b> - </img>
   </span>
   <span>
-    Utilizado para design e prototipação das interfaces, garantindo uma melhor experiência do usuário.
+   Utilizado para criação e prototipação das interfaces do aplicativo.
   </span>
 </div>
 <br>
@@ -616,7 +617,7 @@ A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovan
     <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><b>MySQL</b> - </img>
   </span>
   <span>
-    Utilizado como banco de dados relacional para armazenamento de informações dos reembolsos e usuários.
+   Banco de dados relacional utilizado para armazenar informações estruturadas de usuários e reembolsos.
   </span>
 </div>
 <br>
@@ -626,7 +627,7 @@ A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovan
     <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><b>MongoDB</b> - </img>
   </span>
   <span>
-    Utilizado para armazenar dados não relacionais, como logs de atividades e dados temporários.
+    Utilizado para armazenar dados não relacionais e registros de operações.
   </span>
 </div>
 
@@ -636,7 +637,9 @@ A solução foi criar um aplicativo móvel que permitia tirar fotos de comprovan
 
 ## 💡 Contribuições Pessoais
 
-Neste projeto, atuei como DevTeam, participando da prototipação do projeto e criando o front-end das telas, cumprindo minhas tarefas e sendo proativo buscando ajudar os outros integrantes do grupo. Fui responsável por gerenciar o planejamento no Trello, garantindo máximo desempenho de todos os colegas de grupo e máxima eficiencia nas tarefas. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como Login, Perfil, e outras melhorias visuais no sistema.
+Atuei como DevTeam, participando da prototipação no **Figma**, implementação do **front-end** móvel com **React Native** e **TypeScript** e design das principais telas do aplicativo. Contribuí no desenvolvimento das funcionalidades de Login, Perfil, listagens e fluxos de inserção de despesas.
+
+Além do desenvolvimento técnico, também fui responsável pelo gerenciamento das tarefas no **Trello**, garantindo organização, clareza e eficiência no andamento do projeto. Atuei de forma colaborativa com a equipe, auxiliando colegas em impedimentos e mantendo o alinhamento das entregas.
 
 <br>
 
