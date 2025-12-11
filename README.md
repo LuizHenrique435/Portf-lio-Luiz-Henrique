@@ -528,7 +528,7 @@ Como desenvolvedor, contribuí diretamente na construção de diversas telas, co
 
 ## 🧠 Soft Skills
 
-- **Trabalho em equipe**: CColaborei com o grupo nas principais funcionalidades, participando ativamente dos alinhamentos entre design, frontend e backend para garantir entregas consistentes sem retrabalho.
+- **Trabalho em equipe**: Colaborei com o grupo nas principais funcionalidades, participando ativamente dos alinhamentos entre design, frontend e backend para garantir entregas consistentes sem retrabalho.
 - **Gestão de Equipe**: Atuando como Product Owner da equipe, pude pela primeira vez, liderar a equipe e ser responsável pela mediação entre a Equipe, Stakeholders e Empresa Parceira, traduzindo as necessidades do cliente em tarefas claras e priorizadas para o time.
 - **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
