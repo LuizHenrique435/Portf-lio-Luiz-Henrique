@@ -528,8 +528,8 @@ Como desenvolvedor, contribuí diretamente na construção de diversas telas, co
 
 ## 🧠 Soft Skills
 
-- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
-- **Gestão de Equipe**: Atuando como Product Owner da equipe, pude pela primeira vez, liderar a equipe e ser responsável pela mediação entre a Equipe, Stakeholders e Empresa Parceira.
+- **Trabalho em equipe**: CColaborei com o grupo nas principais funcionalidades, participando ativamente dos alinhamentos entre design, frontend e backend para garantir entregas consistentes sem retrabalho.
+- **Gestão de Equipe**: Atuando como Product Owner da equipe, pude pela primeira vez, liderar a equipe e ser responsável pela mediação entre a Equipe, Stakeholders e Empresa Parceira, traduzindo as necessidades do cliente em tarefas claras e priorizadas para o time.
 - **Disposição para aprender**: Atuando como PO pela primeira vez, tive que me adequar e assumir responsabilidades para atender a todas as expectativas, e como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
@@ -663,10 +663,9 @@ Além do desenvolvimento técnico, também fui responsável pelo gerenciamento d
 - **Comunicação Eficaz**: Mantive um fluxo constante e claro de comunicação com a equipe, facilitando alinhamentos rápidos e garantindo que todos estivessem cientes das prioridades do projeto.
 - **Trabalho em Equipe**: Colaborei ativamente com os colegas, oferecendo suporte técnico, compartilhando conhecimento e ajudando a resolver impedimentos durante o desenvolvimento.
 - **Proatividade e Autonomia**: Antecipei necessidades da equipe e do projeto, tomando iniciativas para resolver problemas e melhorar processos sem depender de direcionamentos constantes.
-- **Aprendizado Contínuo**: Evoluí constantemente durante o projeto, adquirindo novas habilidades em design e desenvolvimento mobile e aplicando-as de forma prática.
-- **Empatia com o Usuário**: Contribuí para a construção de interfaces intuitivas, sempre considerando a experiência do usuário na definição dos fluxos.
-- **Liderança Colaborativa**: Mesmo como DevTeam, organizei tarefas, apoiei colegas e ajudei a manter o ritmo e a eficiência da equipe.
-
+- **Aprendizado Contínuo**: Evoluí em React Native e Figma ao longo do projeto, aplicando rapidamente novos conhecimentos para melhorar a interface e a experiência do usuário.
+- **Empatia com o Usuário**: Contribuí para a criação de fluxos de reembolso simples e claros, focando no uso real do colaborador da GSW.
+- **Liderança Colaborativa**: Mesmo como DevTeam, auxiliei na organização das entregas, promovendo um ambiente produtivo e ajudando colegas a resolver obstáculos técnicos.
 <p align="right">
   <a href="#topo">Voltar ao topo ⬆️</a>
 </p>
